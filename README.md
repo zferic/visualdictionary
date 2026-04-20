@@ -1,8 +1,23 @@
 # PROTECT Visual Data Dictionary
 
-An interactive data dictionary viewer for the PROTECT study dataset. Users can browse variables by category and form, view data types and field descriptions, select variables of interest, and visualize intersections between selected variables.
+An interactive data dictionary viewer built for the [PROTECT study](https://protect.northeastern.edu/) — a longitudinal cohort study examining environmental exposures and their effects on health outcomes in Puerto Rico. The dictionary covers thousands of variables across Biological, Environmental, Human Subject, CRECE, and MOMs data types, all sourced from REDCap instrument exports.
+
+The app lets researchers browse the full variable catalog through a hierarchical navigation tree, inspect field-level metadata (data type, choices, validation rules, branching logic), select variables of interest, and visualize how those variables overlap across study participants using an interactive UpSet diagram.
 
 **[Live Demo](https://manati.ece.neu.edu/dictionary/diz_test/client/build/)**
+
+## Tech Stack
+
+| Layer | Technology |
+|---|---|
+| Frontend | React 17, Material-UI, React Bootstrap |
+| Data tables | react-data-table-component |
+| Visualization | D3 v6, @upsetjs/react |
+| CSV parsing | react-papaparse (web worker) |
+| Layout | react-reflex (resizable panels) |
+| Backend | Node.js + Express |
+| Database | Microsoft SQL Server (via mssql / tedious) |
+| Hosting | Windows IIS (static build + Express API) |
 
 ## Features
 
