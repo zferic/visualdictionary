@@ -1,0 +1,185 @@
+.reflex-element {
+  overflow: hidden;
+}
+
+.reflex-element.resizing {
+  background-color: rgba(255, 0, 0, 0.2);
+}
+
+.reflex-splitter.resizing {
+  background-color: rgba(255, 0, 0, 0.5);
+}
+.reflex-container > .reflex-splitter {
+  z-index: 0 !important;
+}
+.verticalSplitter {
+  width: 4px !important;
+}
+.horizonSplitter {
+  height: 4px !important;
+}
+/* .gzesbR {
+  z-index: -1 !important;
+} */
+.toggle-menu {
+  position: fixed;
+  top: 56px;
+  left: 0;
+  z-index: 99;
+  padding: 2px !important;
+}
+
+.pane-content {
+  position: relative;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  height: 100%;
+}
+
+.pane-content > label {
+  position: relative;
+  top: 30%;
+}
+
+.header {
+  text-align: center;
+  background-color: #bfd3e6;
+  border-bottom: 1px solid #c6c6c6;
+  overflow: hidden !important;
+}
+
+.footer {
+  background-color: #bfd3e6;
+  border-top: 1px solid #c6c6c6;
+  overflow: hidden !important;
+  text-align: left;
+}
+
+.footer p {
+  padding-left: 5px;
+}
+
+.pane-control {
+  border-bottom: 1px solid #c6c6c6;
+  background-color: #b3f2fd;
+  overflow: hidden;
+  height: 25px;
+}
+
+.pane-control > label {
+  white-space: nowrap;
+  margin-left: 10px;
+  margin-top: 4px;
+  font-size: 14px;
+  float: left;
+}
+
+.pane-control > button {
+  transition-timing-function: ease;
+  transition-duration: 1s;
+  transition-property: all;
+  transition-delay: 0s;
+  border: 1px solid #eeeeee;
+  background-color: #c6c6c6;
+  border-radius: 6px;
+  position: relative;
+  margin-right: 4px;
+  overflow: hidden;
+  margin-top: 4px;
+  outline: none;
+  float: right;
+  height: 17px;
+  width: 30px;
+}
+
+.pane-control > button:hover {
+  border: 1px solid #0c63ff;
+}
+
+.pane-control > button > label {
+  transition-timing-function: ease;
+  transition-duration: 1s;
+  transition-property: all;
+  transition-delay: 0s;
+  position: relative;
+  font-size: 20px;
+  color: #f0fcff;
+  top: -8px;
+}
+
+.pane-control > button:hover > label {
+  color: #0c63ff;
+}
+
+.ctrl-pane-content {
+  height: calc(100% - 26px);
+  overflow: hidden;
+}
+
+.ctrl-pane-content > label {
+  position: relative;
+  top: 30%;
+}
+
+.handle {
+  background: #eae9e9;
+  padding: 8px 0 0 8px;
+  height: 28px;
+}
+.popup-box {
+  position: fixed;
+  background: #00000050;
+  width: 100%;
+  height: 100vh;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+
+.box {
+  position: relative;
+  width: 30%;
+  margin: 0 auto;
+  height: auto;
+  max-height: 70vh;
+  margin-top: calc(100vh - 85vh - 20px);
+  background: #fff;
+  border-radius: 4px;
+  padding: 20px;
+  border: 1px solid #999;
+  overflow: auto;
+  z-index: 1000;
+}
+
+.close-icon {
+  content: 'x';
+  cursor: pointer;
+  position: fixed;
+  right: calc(35% - 25px);
+  top: calc(100vh - 85vh - 33px);
+  background: #ededed;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  line-height: 20px;
+  text-align: center;
+  border: 1px solid #999;
+  font-size: 20px;
+}
+
+.info-button {
+  float: right;
+}
+
+.info-image {
+  position: absolute;
+  top: 20px;
+  right: 0;
+  /* z-index: 10000; */
+}
+
+.eUecWd {
+  background-color: rgb(245, 248, 254) !important;
+}

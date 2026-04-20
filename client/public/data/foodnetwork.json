@@ -1,0 +1,4493 @@
+{
+    "nodes": [
+        {
+            "name": "orange_peel",
+            "degree": 1
+        },
+        {
+            "name": "orange",
+            "degree": 16
+        },
+        {
+            "name": "orange_juice",
+            "degree": 2
+        },
+        {
+            "name": "citrus",
+            "degree": 5
+        },
+        {
+            "name": "citrus_peel",
+            "degree": 3
+        },
+        {
+            "name": "nutmeg",
+            "degree": 7
+        },
+        {
+            "name": "bergamot",
+            "degree": 3
+        },
+        {
+            "name": "strawberry",
+            "degree": 34
+        },
+        {
+            "name": "grapefruit",
+            "degree": 1
+        },
+        {
+            "name": "mandarin",
+            "degree": 5
+        },
+        {
+            "name": "lemon_peel",
+            "degree": 7
+        },
+        {
+            "name": "apple",
+            "degree": 25
+        },
+        {
+            "name": "lime",
+            "degree": 5
+        },
+        {
+            "name": "bitter_orange",
+            "degree": 3
+        },
+        {
+            "name": "basil",
+            "degree": 4
+        },
+        {
+            "name": "tangerine",
+            "degree": 7
+        },
+        {
+            "name": "lemon",
+            "degree": 9
+        },
+        {
+            "name": "cinnamon",
+            "degree": 7
+        },
+        {
+            "name": "tarragon",
+            "degree": 1
+        },
+        {
+            "name": "anise",
+            "degree": 3
+        },
+        {
+            "name": "ginger",
+            "degree": 5
+        },
+        {
+            "name": "fennel",
+            "degree": 2
+        },
+        {
+            "name": "guava",
+            "degree": 4
+        },
+        {
+            "name": "star_anise",
+            "degree": 3
+        },
+        {
+            "name": "clove",
+            "degree": 1
+        },
+        {
+            "name": "marjoram",
+            "degree": 1
+        },
+        {
+            "name": "rosemary",
+            "degree": 2
+        },
+        {
+            "name": "mace",
+            "degree": 4
+        },
+        {
+            "name": "seed",
+            "degree": 3
+        },
+        {
+            "name": "black_sesame_seed",
+            "degree": 3
+        },
+        {
+            "name": "rapeseed",
+            "degree": 3
+        },
+        {
+            "name": "nectarine",
+            "degree": 5
+        },
+        {
+            "name": "black_tea",
+            "degree": 31
+        },
+        {
+            "name": "cherry",
+            "degree": 1
+        },
+        {
+            "name": "cabernet_sauvignon_wine",
+            "degree": 15
+        },
+        {
+            "name": "white_wine",
+            "degree": 22
+        },
+        {
+            "name": "pineapple",
+            "degree": 5
+        },
+        {
+            "name": "grape",
+            "degree": 4
+        },
+        {
+            "name": "cognac",
+            "degree": 15
+        },
+        {
+            "name": "melon",
+            "degree": 4
+        },
+        {
+            "name": "apple_brandy",
+            "degree": 10
+        },
+        {
+            "name": "cider",
+            "degree": 11
+        },
+        {
+            "name": "quince",
+            "degree": 4
+        },
+        {
+            "name": "bartlett_pear",
+            "degree": 3
+        },
+        {
+            "name": "banana",
+            "degree": 2
+        },
+        {
+            "name": "pear",
+            "degree": 3
+        },
+        {
+            "name": "concord_grape",
+            "degree": 4
+        },
+        {
+            "name": "plum",
+            "degree": 2
+        },
+        {
+            "name": "muscat_grape",
+            "degree": 5
+        },
+        {
+            "name": "honey",
+            "degree": 2
+        },
+        {
+            "name": "beer",
+            "degree": 27
+        },
+        {
+            "name": "kiwi",
+            "degree": 2
+        },
+        {
+            "name": "red_wine",
+            "degree": 15
+        },
+        {
+            "name": "apricot",
+            "degree": 3
+        },
+        {
+            "name": "roasted_pork",
+            "degree": 8
+        },
+        {
+            "name": "pork",
+            "degree": 8
+        },
+        {
+            "name": "raw_beef",
+            "degree": 19
+        },
+        {
+            "name": "beef",
+            "degree": 19
+        },
+        {
+            "name": "bacon",
+            "degree": 8
+        },
+        {
+            "name": "cured_pork",
+            "degree": 8
+        },
+        {
+            "name": "chicken",
+            "degree": 8
+        },
+        {
+            "name": "roasted_beef",
+            "degree": 27
+        },
+        {
+            "name": "pork_sausage",
+            "degree": 8
+        },
+        {
+            "name": "lamb",
+            "degree": 3
+        },
+        {
+            "name": "roasted_peanut",
+            "degree": 10
+        },
+        {
+            "name": "caviar",
+            "degree": 7
+        },
+        {
+            "name": "peanut",
+            "degree": 5
+        },
+        {
+            "name": "coffee",
+            "degree": 17
+        },
+        {
+            "name": "onion",
+            "degree": 6
+        },
+        {
+            "name": "baked_potato",
+            "degree": 4
+        },
+        {
+            "name": "peanut_butter",
+            "degree": 10
+        },
+        {
+            "name": "soybean",
+            "degree": 14
+        },
+        {
+            "name": "pork_liver",
+            "degree": 7
+        },
+        {
+            "name": "milk",
+            "degree": 5
+        },
+        {
+            "name": "sturgeon_caviar",
+            "degree": 5
+        },
+        {
+            "name": "shallot",
+            "degree": 3
+        },
+        {
+            "name": "garlic",
+            "degree": 3
+        },
+        {
+            "name": "butter",
+            "degree": 1
+        },
+        {
+            "name": "potato",
+            "degree": 2
+        },
+        {
+            "name": "potato_chip",
+            "degree": 3
+        },
+        {
+            "name": "egg",
+            "degree": 1
+        },
+        {
+            "name": "jamaican_rum",
+            "degree": 16
+        },
+        {
+            "name": "rum",
+            "degree": 14
+        },
+        {
+            "name": "port_wine",
+            "degree": 12
+        },
+        {
+            "name": "champagne_wine",
+            "degree": 9
+        },
+        {
+            "name": "whiskey",
+            "degree": 9
+        },
+        {
+            "name": "sherry",
+            "degree": 13
+        },
+        {
+            "name": "wine",
+            "degree": 9
+        },
+        {
+            "name": "blue_cheese",
+            "degree": 23
+        },
+        {
+            "name": "parmesan_cheese",
+            "degree": 22
+        },
+        {
+            "name": "cocoa",
+            "degree": 5
+        },
+        {
+            "name": "passion_fruit",
+            "degree": 4
+        },
+        {
+            "name": "brandy",
+            "degree": 1
+        },
+        {
+            "name": "katsuobushi",
+            "degree": 4
+        },
+        {
+            "name": "swiss_cheese",
+            "degree": 19
+        },
+        {
+            "name": "cheddar_cheese",
+            "degree": 21
+        },
+        {
+            "name": "hop",
+            "degree": 1
+        },
+        {
+            "name": "gruyere_cheese",
+            "degree": 18
+        },
+        {
+            "name": "malt",
+            "degree": 1
+        },
+        {
+            "name": "grape_brandy",
+            "degree": 1
+        },
+        {
+            "name": "rye_bread",
+            "degree": 2
+        },
+        {
+            "name": "wheat_bread",
+            "degree": 2
+        },
+        {
+            "name": "bread",
+            "degree": 3
+        },
+        {
+            "name": "white_bread",
+            "degree": 1
+        },
+        {
+            "name": "geranium",
+            "degree": 4
+        },
+        {
+            "name": "thyme",
+            "degree": 1
+        },
+        {
+            "name": "vanilla",
+            "degree": 2
+        },
+        {
+            "name": "tea",
+            "degree": 8
+        },
+        {
+            "name": "peppermint",
+            "degree": 6
+        },
+        {
+            "name": "jasmine_tea",
+            "degree": 8
+        },
+        {
+            "name": "jasmine",
+            "degree": 6
+        },
+        {
+            "name": "raspberry",
+            "degree": 9
+        },
+        {
+            "name": "lingonberry",
+            "degree": 1
+        },
+        {
+            "name": "bell_pepper",
+            "degree": 8
+        },
+        {
+            "name": "peppermint_oil",
+            "degree": 5
+        },
+        {
+            "name": "mint",
+            "degree": 1
+        },
+        {
+            "name": "strawberry_jam",
+            "degree": 1
+        },
+        {
+            "name": "okra",
+            "degree": 3
+        },
+        {
+            "name": "japanese_plum",
+            "degree": 4
+        },
+        {
+            "name": "green_tea",
+            "degree": 11
+        },
+        {
+            "name": "spearmint",
+            "degree": 1
+        },
+        {
+            "name": "tomato",
+            "degree": 1
+        },
+        {
+            "name": "mango",
+            "degree": 3
+        },
+        {
+            "name": "camembert_cheese",
+            "degree": 17
+        },
+        {
+            "name": "cheese",
+            "degree": 17
+        },
+        {
+            "name": "roquefort_cheese",
+            "degree": 17
+        },
+        {
+            "name": "provolone_cheese",
+            "degree": 17
+        },
+        {
+            "name": "romano_cheese",
+            "degree": 17
+        },
+        {
+            "name": "cream_cheese",
+            "degree": 17
+        },
+        {
+            "name": "cottage_cheese",
+            "degree": 17
+        },
+        {
+            "name": "goat_cheese",
+            "degree": 17
+        },
+        {
+            "name": "mozzarella_cheese",
+            "degree": 17
+        },
+        {
+            "name": "sheep_cheese",
+            "degree": 17
+        },
+        {
+            "name": "feta_cheese",
+            "degree": 17
+        },
+        {
+            "name": "emmental_cheese",
+            "degree": 17
+        },
+        {
+            "name": "munster_cheese",
+            "degree": 17
+        },
+        {
+            "name": "huckleberry",
+            "degree": 10
+        },
+        {
+            "name": "juniper_berry",
+            "degree": 10
+        },
+        {
+            "name": "blackberry",
+            "degree": 8
+        },
+        {
+            "name": "black_currant",
+            "degree": 7
+        },
+        {
+            "name": "elderberry",
+            "degree": 8
+        },
+        {
+            "name": "papaya",
+            "degree": 1
+        },
+        {
+            "name": "olive",
+            "degree": 1
+        },
+        {
+            "name": "blueberry",
+            "degree": 10
+        },
+        {
+            "name": "black_raspberry",
+            "degree": 10
+        },
+        {
+            "name": "berry",
+            "degree": 10
+        },
+        {
+            "name": "cranberry",
+            "degree": 7
+        },
+        {
+            "name": "porcini",
+            "degree": 4
+        },
+        {
+            "name": "matsutake",
+            "degree": 4
+        },
+        {
+            "name": "enokidake",
+            "degree": 4
+        },
+        {
+            "name": "shiitake",
+            "degree": 4
+        },
+        {
+            "name": "mushroom",
+            "degree": 4
+        },
+        {
+            "name": "cream",
+            "degree": 3
+        },
+        {
+            "name": "buttermilk",
+            "degree": 2
+        },
+        {
+            "name": "wood",
+            "degree": 1
+        },
+        {
+            "name": "popcorn",
+            "degree": 3
+        },
+        {
+            "name": "squid",
+            "degree": 1
+        },
+        {
+            "name": "smoked_salmon",
+            "degree": 12
+        },
+        {
+            "name": "salmon",
+            "degree": 12
+        },
+        {
+            "name": "tuna",
+            "degree": 12
+        },
+        {
+            "name": "chive",
+            "degree": 2
+        },
+        {
+            "name": "mung_bean",
+            "degree": 7
+        },
+        {
+            "name": "lima_bean",
+            "degree": 7
+        },
+        {
+            "name": "bean",
+            "degree": 7
+        },
+        {
+            "name": "kidney_bean",
+            "degree": 7
+        },
+        {
+            "name": "red_bean",
+            "degree": 7
+        },
+        {
+            "name": "black_bean",
+            "degree": 7
+        },
+        {
+            "name": "red_kidney_bean",
+            "degree": 7
+        },
+        {
+            "name": "cayenne",
+            "degree": 6
+        },
+        {
+            "name": "pepper",
+            "degree": 6
+        },
+        {
+            "name": "green_bell_pepper",
+            "degree": 6
+        },
+        {
+            "name": "black_pepper",
+            "degree": 6
+        },
+        {
+            "name": "tabasco_pepper",
+            "degree": 6
+        },
+        {
+            "name": "thai_pepper",
+            "degree": 6
+        },
+        {
+            "name": "gardenia",
+            "degree": 7
+        },
+        {
+            "name": "flower",
+            "degree": 7
+        },
+        {
+            "name": "carnation",
+            "degree": 7
+        },
+        {
+            "name": "lavender",
+            "degree": 3
+        },
+        {
+            "name": "rose",
+            "degree": 3
+        },
+        {
+            "name": "orange_flower",
+            "degree": 4
+        },
+        {
+            "name": "durian",
+            "degree": 1
+        },
+        {
+            "name": "rice",
+            "degree": 1
+        },
+        {
+            "name": "brown_rice",
+            "degree": 1
+        },
+        {
+            "name": "lemongrass",
+            "degree": 1
+        },
+        {
+            "name": "vegetable",
+            "degree": 1
+        },
+        {
+            "name": "watercress",
+            "degree": 1
+        },
+        {
+            "name": "smoked_fish",
+            "degree": 10
+        },
+        {
+            "name": "cod",
+            "degree": 10
+        },
+        {
+            "name": "haddock",
+            "degree": 10
+        },
+        {
+            "name": "mackerel",
+            "degree": 10
+        },
+        {
+            "name": "eel",
+            "degree": 10
+        },
+        {
+            "name": "catfish",
+            "degree": 10
+        },
+        {
+            "name": "herring",
+            "degree": 10
+        },
+        {
+            "name": "fish",
+            "degree": 10
+        },
+        {
+            "name": "coriander",
+            "degree": 1
+        },
+        {
+            "name": "lovage",
+            "degree": 1
+        },
+        {
+            "name": "leaf",
+            "degree": 1
+        },
+        {
+            "name": "leek",
+            "degree": 3
+        },
+        {
+            "name": "lime_peel_oil",
+            "degree": 1
+        },
+        {
+            "name": "almond",
+            "degree": 1
+        },
+        {
+            "name": "roasted_almond",
+            "degree": 1
+        },
+        {
+            "name": "coconut",
+            "degree": 1
+        },
+        {
+            "name": "coconut_oil",
+            "degree": 1
+        }
+    ],
+    "links": [
+        {
+            "source": "orange_peel",
+            "target": "orange",
+            "weight": 1
+        },
+        {
+            "source": "orange",
+            "target": "orange_juice",
+            "weight": 1
+        },
+        {
+            "source": "orange",
+            "target": "citrus",
+            "weight": 1
+        },
+        {
+            "source": "orange",
+            "target": "citrus_peel",
+            "weight": 1
+        },
+        {
+            "source": "orange",
+            "target": "nutmeg",
+            "weight": 1
+        },
+        {
+            "source": "orange",
+            "target": "bergamot",
+            "weight": 1
+        },
+        {
+            "source": "orange",
+            "target": "strawberry",
+            "weight": 1
+        },
+        {
+            "source": "orange",
+            "target": "grapefruit",
+            "weight": 1
+        },
+        {
+            "source": "orange",
+            "target": "mandarin",
+            "weight": 1
+        },
+        {
+            "source": "orange",
+            "target": "lemon_peel",
+            "weight": 1
+        },
+        {
+            "source": "orange",
+            "target": "apple",
+            "weight": 1
+        },
+        {
+            "source": "orange",
+            "target": "lime",
+            "weight": 1
+        },
+        {
+            "source": "orange",
+            "target": "bitter_orange",
+            "weight": 1
+        },
+        {
+            "source": "orange",
+            "target": "basil",
+            "weight": 1
+        },
+        {
+            "source": "orange",
+            "target": "tangerine",
+            "weight": 1
+        },
+        {
+            "source": "orange",
+            "target": "lemon",
+            "weight": 1
+        },
+        {
+            "source": "orange_juice",
+            "target": "apple",
+            "weight": 1
+        },
+        {
+            "source": "citrus",
+            "target": "mandarin",
+            "weight": 1
+        },
+        {
+            "source": "citrus",
+            "target": "lemon",
+            "weight": 1
+        },
+        {
+            "source": "citrus",
+            "target": "tangerine",
+            "weight": 1
+        },
+        {
+            "source": "citrus",
+            "target": "lime",
+            "weight": 1
+        },
+        {
+            "source": "citrus_peel",
+            "target": "black_tea",
+            "weight": 1
+        },
+        {
+            "source": "citrus_peel",
+            "target": "lemon",
+            "weight": 1
+        },
+        {
+            "source": "nutmeg",
+            "target": "cinnamon",
+            "weight": 1
+        },
+        {
+            "source": "nutmeg",
+            "target": "ginger",
+            "weight": 1
+        },
+        {
+            "source": "nutmeg",
+            "target": "mace",
+            "weight": 1
+        },
+        {
+            "source": "nutmeg",
+            "target": "seed",
+            "weight": 1
+        },
+        {
+            "source": "nutmeg",
+            "target": "black_sesame_seed",
+            "weight": 1
+        },
+        {
+            "source": "nutmeg",
+            "target": "rapeseed",
+            "weight": 1
+        },
+        {
+            "source": "bergamot",
+            "target": "lemon",
+            "weight": 1
+        },
+        {
+            "source": "bergamot",
+            "target": "tangerine",
+            "weight": 1
+        },
+        {
+            "source": "strawberry",
+            "target": "guava",
+            "weight": 1
+        },
+        {
+            "source": "strawberry",
+            "target": "apple",
+            "weight": 1
+        },
+        {
+            "source": "strawberry",
+            "target": "white_wine",
+            "weight": 1
+        },
+        {
+            "source": "strawberry",
+            "target": "pineapple",
+            "weight": 1
+        },
+        {
+            "source": "strawberry",
+            "target": "passion_fruit",
+            "weight": 1
+        },
+        {
+            "source": "strawberry",
+            "target": "muscat_grape",
+            "weight": 1
+        },
+        {
+            "source": "strawberry",
+            "target": "grape",
+            "weight": 1
+        },
+        {
+            "source": "strawberry",
+            "target": "huckleberry",
+            "weight": 1
+        },
+        {
+            "source": "strawberry",
+            "target": "melon",
+            "weight": 1
+        },
+        {
+            "source": "strawberry",
+            "target": "juniper_berry",
+            "weight": 1
+        },
+        {
+            "source": "strawberry",
+            "target": "blackberry",
+            "weight": 1
+        },
+        {
+            "source": "strawberry",
+            "target": "black_currant",
+            "weight": 1
+        },
+        {
+            "source": "strawberry",
+            "target": "honey",
+            "weight": 1
+        },
+        {
+            "source": "strawberry",
+            "target": "elderberry",
+            "weight": 1
+        },
+        {
+            "source": "strawberry",
+            "target": "nectarine",
+            "weight": 1
+        },
+        {
+            "source": "strawberry",
+            "target": "bitter_orange",
+            "weight": 1
+        },
+        {
+            "source": "strawberry",
+            "target": "quince",
+            "weight": 1
+        },
+        {
+            "source": "strawberry",
+            "target": "bartlett_pear",
+            "weight": 1
+        },
+        {
+            "source": "strawberry",
+            "target": "banana",
+            "weight": 1
+        },
+        {
+            "source": "strawberry",
+            "target": "kiwi",
+            "weight": 1
+        },
+        {
+            "source": "strawberry",
+            "target": "papaya",
+            "weight": 1
+        },
+        {
+            "source": "strawberry",
+            "target": "pear",
+            "weight": 1
+        },
+        {
+            "source": "strawberry",
+            "target": "tangerine",
+            "weight": 1
+        },
+        {
+            "source": "strawberry",
+            "target": "olive",
+            "weight": 1
+        },
+        {
+            "source": "strawberry",
+            "target": "raspberry",
+            "weight": 1
+        },
+        {
+            "source": "strawberry",
+            "target": "concord_grape",
+            "weight": 1
+        },
+        {
+            "source": "strawberry",
+            "target": "apricot",
+            "weight": 1
+        },
+        {
+            "source": "strawberry",
+            "target": "plum",
+            "weight": 1
+        },
+        {
+            "source": "strawberry",
+            "target": "blueberry",
+            "weight": 1
+        },
+        {
+            "source": "strawberry",
+            "target": "black_raspberry",
+            "weight": 1
+        },
+        {
+            "source": "strawberry",
+            "target": "mango",
+            "weight": 1
+        },
+        {
+            "source": "strawberry",
+            "target": "berry",
+            "weight": 1
+        },
+        {
+            "source": "strawberry",
+            "target": "cranberry",
+            "weight": 1
+        },
+        {
+            "source": "mandarin",
+            "target": "lemon",
+            "weight": 1
+        },
+        {
+            "source": "mandarin",
+            "target": "tangerine",
+            "weight": 1
+        },
+        {
+            "source": "mandarin",
+            "target": "lime",
+            "weight": 1
+        },
+        {
+            "source": "lemon_peel",
+            "target": "black_tea",
+            "weight": 1
+        },
+        {
+            "source": "lemon_peel",
+            "target": "jasmine_tea",
+            "weight": 1
+        },
+        {
+            "source": "lemon_peel",
+            "target": "tea",
+            "weight": 1
+        },
+        {
+            "source": "lemon_peel",
+            "target": "green_tea",
+            "weight": 1
+        },
+        {
+            "source": "lemon_peel",
+            "target": "peppermint",
+            "weight": 1
+        },
+        {
+            "source": "lemon_peel",
+            "target": "lime_peel_oil",
+            "weight": 1
+        },
+        {
+            "source": "apple",
+            "target": "cherry",
+            "weight": 1
+        },
+        {
+            "source": "apple",
+            "target": "cabernet_sauvignon_wine",
+            "weight": 1
+        },
+        {
+            "source": "apple",
+            "target": "white_wine",
+            "weight": 1
+        },
+        {
+            "source": "apple",
+            "target": "pineapple",
+            "weight": 1
+        },
+        {
+            "source": "apple",
+            "target": "grape",
+            "weight": 1
+        },
+        {
+            "source": "apple",
+            "target": "cognac",
+            "weight": 1
+        },
+        {
+            "source": "apple",
+            "target": "melon",
+            "weight": 1
+        },
+        {
+            "source": "apple",
+            "target": "apple_brandy",
+            "weight": 1
+        },
+        {
+            "source": "apple",
+            "target": "cider",
+            "weight": 1
+        },
+        {
+            "source": "apple",
+            "target": "quince",
+            "weight": 1
+        },
+        {
+            "source": "apple",
+            "target": "bartlett_pear",
+            "weight": 1
+        },
+        {
+            "source": "apple",
+            "target": "banana",
+            "weight": 1
+        },
+        {
+            "source": "apple",
+            "target": "pear",
+            "weight": 1
+        },
+        {
+            "source": "apple",
+            "target": "concord_grape",
+            "weight": 1
+        },
+        {
+            "source": "apple",
+            "target": "plum",
+            "weight": 1
+        },
+        {
+            "source": "apple",
+            "target": "muscat_grape",
+            "weight": 1
+        },
+        {
+            "source": "apple",
+            "target": "honey",
+            "weight": 1
+        },
+        {
+            "source": "apple",
+            "target": "nectarine",
+            "weight": 1
+        },
+        {
+            "source": "apple",
+            "target": "beer",
+            "weight": 1
+        },
+        {
+            "source": "apple",
+            "target": "kiwi",
+            "weight": 1
+        },
+        {
+            "source": "apple",
+            "target": "red_wine",
+            "weight": 1
+        },
+        {
+            "source": "apple",
+            "target": "apricot",
+            "weight": 1
+        },
+        {
+            "source": "lime",
+            "target": "lemon",
+            "weight": 1
+        },
+        {
+            "source": "lime",
+            "target": "tangerine",
+            "weight": 1
+        },
+        {
+            "source": "bitter_orange",
+            "target": "lemon",
+            "weight": 1
+        },
+        {
+            "source": "basil",
+            "target": "black_tea",
+            "weight": 1
+        },
+        {
+            "source": "basil",
+            "target": "green_tea",
+            "weight": 1
+        },
+        {
+            "source": "basil",
+            "target": "rosemary",
+            "weight": 1
+        },
+        {
+            "source": "tangerine",
+            "target": "lemon",
+            "weight": 1
+        },
+        {
+            "source": "lemon",
+            "target": "lemongrass",
+            "weight": 1
+        },
+        {
+            "source": "cinnamon",
+            "target": "tarragon",
+            "weight": 1
+        },
+        {
+            "source": "cinnamon",
+            "target": "anise",
+            "weight": 1
+        },
+        {
+            "source": "cinnamon",
+            "target": "ginger",
+            "weight": 1
+        },
+        {
+            "source": "cinnamon",
+            "target": "fennel",
+            "weight": 1
+        },
+        {
+            "source": "cinnamon",
+            "target": "guava",
+            "weight": 1
+        },
+        {
+            "source": "cinnamon",
+            "target": "star_anise",
+            "weight": 1
+        },
+        {
+            "source": "anise",
+            "target": "star_anise",
+            "weight": 1
+        },
+        {
+            "source": "anise",
+            "target": "clove",
+            "weight": 1
+        },
+        {
+            "source": "ginger",
+            "target": "marjoram",
+            "weight": 1
+        },
+        {
+            "source": "ginger",
+            "target": "rosemary",
+            "weight": 1
+        },
+        {
+            "source": "ginger",
+            "target": "mace",
+            "weight": 1
+        },
+        {
+            "source": "fennel",
+            "target": "star_anise",
+            "weight": 1
+        },
+        {
+            "source": "guava",
+            "target": "nectarine",
+            "weight": 1
+        },
+        {
+            "source": "guava",
+            "target": "black_tea",
+            "weight": 1
+        },
+        {
+            "source": "mace",
+            "target": "bell_pepper",
+            "weight": 1
+        },
+        {
+            "source": "mace",
+            "target": "coriander",
+            "weight": 1
+        },
+        {
+            "source": "seed",
+            "target": "black_sesame_seed",
+            "weight": 1
+        },
+        {
+            "source": "seed",
+            "target": "rapeseed",
+            "weight": 1
+        },
+        {
+            "source": "black_sesame_seed",
+            "target": "rapeseed",
+            "weight": 1
+        },
+        {
+            "source": "nectarine",
+            "target": "melon",
+            "weight": 1
+        },
+        {
+            "source": "nectarine",
+            "target": "mango",
+            "weight": 1
+        },
+        {
+            "source": "black_tea",
+            "target": "jamaican_rum",
+            "weight": 1
+        },
+        {
+            "source": "black_tea",
+            "target": "rum",
+            "weight": 1
+        },
+        {
+            "source": "black_tea",
+            "target": "white_wine",
+            "weight": 1
+        },
+        {
+            "source": "black_tea",
+            "target": "cocoa",
+            "weight": 1
+        },
+        {
+            "source": "black_tea",
+            "target": "katsuobushi",
+            "weight": 1
+        },
+        {
+            "source": "black_tea",
+            "target": "geranium",
+            "weight": 1
+        },
+        {
+            "source": "black_tea",
+            "target": "coffee",
+            "weight": 1
+        },
+        {
+            "source": "black_tea",
+            "target": "thyme",
+            "weight": 1
+        },
+        {
+            "source": "black_tea",
+            "target": "vanilla",
+            "weight": 1
+        },
+        {
+            "source": "black_tea",
+            "target": "tea",
+            "weight": 1
+        },
+        {
+            "source": "black_tea",
+            "target": "peppermint",
+            "weight": 1
+        },
+        {
+            "source": "black_tea",
+            "target": "jasmine_tea",
+            "weight": 1
+        },
+        {
+            "source": "black_tea",
+            "target": "jasmine",
+            "weight": 1
+        },
+        {
+            "source": "black_tea",
+            "target": "raspberry",
+            "weight": 1
+        },
+        {
+            "source": "black_tea",
+            "target": "lingonberry",
+            "weight": 1
+        },
+        {
+            "source": "black_tea",
+            "target": "bell_pepper",
+            "weight": 1
+        },
+        {
+            "source": "black_tea",
+            "target": "peppermint_oil",
+            "weight": 1
+        },
+        {
+            "source": "black_tea",
+            "target": "soybean",
+            "weight": 1
+        },
+        {
+            "source": "black_tea",
+            "target": "passion_fruit",
+            "weight": 1
+        },
+        {
+            "source": "black_tea",
+            "target": "mint",
+            "weight": 1
+        },
+        {
+            "source": "black_tea",
+            "target": "strawberry_jam",
+            "weight": 1
+        },
+        {
+            "source": "black_tea",
+            "target": "okra",
+            "weight": 1
+        },
+        {
+            "source": "black_tea",
+            "target": "japanese_plum",
+            "weight": 1
+        },
+        {
+            "source": "black_tea",
+            "target": "green_tea",
+            "weight": 1
+        },
+        {
+            "source": "black_tea",
+            "target": "spearmint",
+            "weight": 1
+        },
+        {
+            "source": "black_tea",
+            "target": "tomato",
+            "weight": 1
+        },
+        {
+            "source": "black_tea",
+            "target": "mango",
+            "weight": 1
+        },
+        {
+            "source": "cabernet_sauvignon_wine",
+            "target": "jamaican_rum",
+            "weight": 1
+        },
+        {
+            "source": "cabernet_sauvignon_wine",
+            "target": "rum",
+            "weight": 1
+        },
+        {
+            "source": "cabernet_sauvignon_wine",
+            "target": "red_wine",
+            "weight": 1
+        },
+        {
+            "source": "cabernet_sauvignon_wine",
+            "target": "cider",
+            "weight": 1
+        },
+        {
+            "source": "cabernet_sauvignon_wine",
+            "target": "port_wine",
+            "weight": 1
+        },
+        {
+            "source": "cabernet_sauvignon_wine",
+            "target": "white_wine",
+            "weight": 1
+        },
+        {
+            "source": "cabernet_sauvignon_wine",
+            "target": "champagne_wine",
+            "weight": 1
+        },
+        {
+            "source": "cabernet_sauvignon_wine",
+            "target": "whiskey",
+            "weight": 1
+        },
+        {
+            "source": "cabernet_sauvignon_wine",
+            "target": "beer",
+            "weight": 1
+        },
+        {
+            "source": "cabernet_sauvignon_wine",
+            "target": "cognac",
+            "weight": 1
+        },
+        {
+            "source": "cabernet_sauvignon_wine",
+            "target": "pineapple",
+            "weight": 1
+        },
+        {
+            "source": "cabernet_sauvignon_wine",
+            "target": "sherry",
+            "weight": 1
+        },
+        {
+            "source": "cabernet_sauvignon_wine",
+            "target": "apple_brandy",
+            "weight": 1
+        },
+        {
+            "source": "cabernet_sauvignon_wine",
+            "target": "wine",
+            "weight": 1
+        },
+        {
+            "source": "white_wine",
+            "target": "jamaican_rum",
+            "weight": 1
+        },
+        {
+            "source": "white_wine",
+            "target": "rum",
+            "weight": 1
+        },
+        {
+            "source": "white_wine",
+            "target": "red_wine",
+            "weight": 1
+        },
+        {
+            "source": "white_wine",
+            "target": "cider",
+            "weight": 1
+        },
+        {
+            "source": "white_wine",
+            "target": "port_wine",
+            "weight": 1
+        },
+        {
+            "source": "white_wine",
+            "target": "cocoa",
+            "weight": 1
+        },
+        {
+            "source": "white_wine",
+            "target": "passion_fruit",
+            "weight": 1
+        },
+        {
+            "source": "white_wine",
+            "target": "whiskey",
+            "weight": 1
+        },
+        {
+            "source": "white_wine",
+            "target": "beer",
+            "weight": 1
+        },
+        {
+            "source": "white_wine",
+            "target": "cognac",
+            "weight": 1
+        },
+        {
+            "source": "white_wine",
+            "target": "sherry",
+            "weight": 1
+        },
+        {
+            "source": "white_wine",
+            "target": "muscat_grape",
+            "weight": 1
+        },
+        {
+            "source": "white_wine",
+            "target": "champagne_wine",
+            "weight": 1
+        },
+        {
+            "source": "white_wine",
+            "target": "brandy",
+            "weight": 1
+        },
+        {
+            "source": "white_wine",
+            "target": "apple_brandy",
+            "weight": 1
+        },
+        {
+            "source": "white_wine",
+            "target": "parmesan_cheese",
+            "weight": 1
+        },
+        {
+            "source": "white_wine",
+            "target": "pineapple",
+            "weight": 1
+        },
+        {
+            "source": "white_wine",
+            "target": "wine",
+            "weight": 1
+        },
+        {
+            "source": "pineapple",
+            "target": "red_wine",
+            "weight": 1
+        },
+        {
+            "source": "grape",
+            "target": "muscat_grape",
+            "weight": 1
+        },
+        {
+            "source": "grape",
+            "target": "concord_grape",
+            "weight": 1
+        },
+        {
+            "source": "cognac",
+            "target": "jamaican_rum",
+            "weight": 1
+        },
+        {
+            "source": "cognac",
+            "target": "rum",
+            "weight": 1
+        },
+        {
+            "source": "cognac",
+            "target": "red_wine",
+            "weight": 1
+        },
+        {
+            "source": "cognac",
+            "target": "cider",
+            "weight": 1
+        },
+        {
+            "source": "cognac",
+            "target": "port_wine",
+            "weight": 1
+        },
+        {
+            "source": "cognac",
+            "target": "champagne_wine",
+            "weight": 1
+        },
+        {
+            "source": "cognac",
+            "target": "whiskey",
+            "weight": 1
+        },
+        {
+            "source": "cognac",
+            "target": "beer",
+            "weight": 1
+        },
+        {
+            "source": "cognac",
+            "target": "grape_brandy",
+            "weight": 1
+        },
+        {
+            "source": "cognac",
+            "target": "sherry",
+            "weight": 1
+        },
+        {
+            "source": "cognac",
+            "target": "apple_brandy",
+            "weight": 1
+        },
+        {
+            "source": "cognac",
+            "target": "wine",
+            "weight": 1
+        },
+        {
+            "source": "melon",
+            "target": "durian",
+            "weight": 1
+        },
+        {
+            "source": "apple_brandy",
+            "target": "jamaican_rum",
+            "weight": 1
+        },
+        {
+            "source": "apple_brandy",
+            "target": "rum",
+            "weight": 1
+        },
+        {
+            "source": "apple_brandy",
+            "target": "red_wine",
+            "weight": 1
+        },
+        {
+            "source": "apple_brandy",
+            "target": "cider",
+            "weight": 1
+        },
+        {
+            "source": "apple_brandy",
+            "target": "port_wine",
+            "weight": 1
+        },
+        {
+            "source": "apple_brandy",
+            "target": "sherry",
+            "weight": 1
+        },
+        {
+            "source": "cider",
+            "target": "jamaican_rum",
+            "weight": 1
+        },
+        {
+            "source": "cider",
+            "target": "rum",
+            "weight": 1
+        },
+        {
+            "source": "cider",
+            "target": "red_wine",
+            "weight": 1
+        },
+        {
+            "source": "cider",
+            "target": "port_wine",
+            "weight": 1
+        },
+        {
+            "source": "cider",
+            "target": "beer",
+            "weight": 1
+        },
+        {
+            "source": "cider",
+            "target": "sherry",
+            "weight": 1
+        },
+        {
+            "source": "quince",
+            "target": "passion_fruit",
+            "weight": 1
+        },
+        {
+            "source": "quince",
+            "target": "apricot",
+            "weight": 1
+        },
+        {
+            "source": "bartlett_pear",
+            "target": "pear",
+            "weight": 1
+        },
+        {
+            "source": "concord_grape",
+            "target": "muscat_grape",
+            "weight": 1
+        },
+        {
+            "source": "beer",
+            "target": "raw_beef",
+            "weight": 1
+        },
+        {
+            "source": "beer",
+            "target": "beef",
+            "weight": 1
+        },
+        {
+            "source": "beer",
+            "target": "roasted_beef",
+            "weight": 1
+        },
+        {
+            "source": "beer",
+            "target": "jamaican_rum",
+            "weight": 1
+        },
+        {
+            "source": "beer",
+            "target": "rum",
+            "weight": 1
+        },
+        {
+            "source": "beer",
+            "target": "red_wine",
+            "weight": 1
+        },
+        {
+            "source": "beer",
+            "target": "port_wine",
+            "weight": 1
+        },
+        {
+            "source": "beer",
+            "target": "champagne_wine",
+            "weight": 1
+        },
+        {
+            "source": "beer",
+            "target": "whiskey",
+            "weight": 1
+        },
+        {
+            "source": "beer",
+            "target": "milk",
+            "weight": 1
+        },
+        {
+            "source": "beer",
+            "target": "katsuobushi",
+            "weight": 1
+        },
+        {
+            "source": "beer",
+            "target": "coffee",
+            "weight": 1
+        },
+        {
+            "source": "beer",
+            "target": "swiss_cheese",
+            "weight": 1
+        },
+        {
+            "source": "beer",
+            "target": "blue_cheese",
+            "weight": 1
+        },
+        {
+            "source": "beer",
+            "target": "cheddar_cheese",
+            "weight": 1
+        },
+        {
+            "source": "beer",
+            "target": "cocoa",
+            "weight": 1
+        },
+        {
+            "source": "beer",
+            "target": "hop",
+            "weight": 1
+        },
+        {
+            "source": "beer",
+            "target": "sherry",
+            "weight": 1
+        },
+        {
+            "source": "beer",
+            "target": "gruyere_cheese",
+            "weight": 1
+        },
+        {
+            "source": "beer",
+            "target": "malt",
+            "weight": 1
+        },
+        {
+            "source": "beer",
+            "target": "pork_liver",
+            "weight": 1
+        },
+        {
+            "source": "beer",
+            "target": "wine",
+            "weight": 1
+        },
+        {
+            "source": "red_wine",
+            "target": "jamaican_rum",
+            "weight": 1
+        },
+        {
+            "source": "red_wine",
+            "target": "rum",
+            "weight": 1
+        },
+        {
+            "source": "red_wine",
+            "target": "champagne_wine",
+            "weight": 1
+        },
+        {
+            "source": "red_wine",
+            "target": "whiskey",
+            "weight": 1
+        },
+        {
+            "source": "red_wine",
+            "target": "port_wine",
+            "weight": 1
+        },
+        {
+            "source": "red_wine",
+            "target": "sherry",
+            "weight": 1
+        },
+        {
+            "source": "red_wine",
+            "target": "wine",
+            "weight": 1
+        },
+        {
+            "source": "roasted_pork",
+            "target": "pork",
+            "weight": 1
+        },
+        {
+            "source": "roasted_pork",
+            "target": "raw_beef",
+            "weight": 1
+        },
+        {
+            "source": "roasted_pork",
+            "target": "beef",
+            "weight": 1
+        },
+        {
+            "source": "roasted_pork",
+            "target": "bacon",
+            "weight": 1
+        },
+        {
+            "source": "roasted_pork",
+            "target": "cured_pork",
+            "weight": 1
+        },
+        {
+            "source": "roasted_pork",
+            "target": "chicken",
+            "weight": 1
+        },
+        {
+            "source": "roasted_pork",
+            "target": "roasted_beef",
+            "weight": 1
+        },
+        {
+            "source": "roasted_pork",
+            "target": "pork_sausage",
+            "weight": 1
+        },
+        {
+            "source": "pork",
+            "target": "chicken",
+            "weight": 1
+        },
+        {
+            "source": "pork",
+            "target": "raw_beef",
+            "weight": 1
+        },
+        {
+            "source": "pork",
+            "target": "beef",
+            "weight": 1
+        },
+        {
+            "source": "pork",
+            "target": "bacon",
+            "weight": 1
+        },
+        {
+            "source": "pork",
+            "target": "cured_pork",
+            "weight": 1
+        },
+        {
+            "source": "pork",
+            "target": "roasted_beef",
+            "weight": 1
+        },
+        {
+            "source": "pork",
+            "target": "pork_sausage",
+            "weight": 1
+        },
+        {
+            "source": "raw_beef",
+            "target": "chicken",
+            "weight": 1
+        },
+        {
+            "source": "raw_beef",
+            "target": "lamb",
+            "weight": 1
+        },
+        {
+            "source": "raw_beef",
+            "target": "beef",
+            "weight": 1
+        },
+        {
+            "source": "raw_beef",
+            "target": "roasted_peanut",
+            "weight": 1
+        },
+        {
+            "source": "raw_beef",
+            "target": "caviar",
+            "weight": 1
+        },
+        {
+            "source": "raw_beef",
+            "target": "peanut",
+            "weight": 1
+        },
+        {
+            "source": "raw_beef",
+            "target": "bacon",
+            "weight": 1
+        },
+        {
+            "source": "raw_beef",
+            "target": "coffee",
+            "weight": 1
+        },
+        {
+            "source": "raw_beef",
+            "target": "onion",
+            "weight": 1
+        },
+        {
+            "source": "raw_beef",
+            "target": "cured_pork",
+            "weight": 1
+        },
+        {
+            "source": "raw_beef",
+            "target": "baked_potato",
+            "weight": 1
+        },
+        {
+            "source": "raw_beef",
+            "target": "peanut_butter",
+            "weight": 1
+        },
+        {
+            "source": "raw_beef",
+            "target": "soybean",
+            "weight": 1
+        },
+        {
+            "source": "raw_beef",
+            "target": "roasted_beef",
+            "weight": 1
+        },
+        {
+            "source": "raw_beef",
+            "target": "pork_sausage",
+            "weight": 1
+        },
+        {
+            "source": "raw_beef",
+            "target": "pork_liver",
+            "weight": 1
+        },
+        {
+            "source": "beef",
+            "target": "chicken",
+            "weight": 1
+        },
+        {
+            "source": "beef",
+            "target": "peanut",
+            "weight": 1
+        },
+        {
+            "source": "beef",
+            "target": "coffee",
+            "weight": 1
+        },
+        {
+            "source": "beef",
+            "target": "peanut_butter",
+            "weight": 1
+        },
+        {
+            "source": "beef",
+            "target": "onion",
+            "weight": 1
+        },
+        {
+            "source": "beef",
+            "target": "bacon",
+            "weight": 1
+        },
+        {
+            "source": "beef",
+            "target": "roasted_peanut",
+            "weight": 1
+        },
+        {
+            "source": "beef",
+            "target": "soybean",
+            "weight": 1
+        },
+        {
+            "source": "beef",
+            "target": "lamb",
+            "weight": 1
+        },
+        {
+            "source": "beef",
+            "target": "caviar",
+            "weight": 1
+        },
+        {
+            "source": "beef",
+            "target": "cured_pork",
+            "weight": 1
+        },
+        {
+            "source": "beef",
+            "target": "baked_potato",
+            "weight": 1
+        },
+        {
+            "source": "beef",
+            "target": "roasted_beef",
+            "weight": 1
+        },
+        {
+            "source": "beef",
+            "target": "pork_sausage",
+            "weight": 1
+        },
+        {
+            "source": "beef",
+            "target": "pork_liver",
+            "weight": 1
+        },
+        {
+            "source": "bacon",
+            "target": "chicken",
+            "weight": 1
+        },
+        {
+            "source": "bacon",
+            "target": "cured_pork",
+            "weight": 1
+        },
+        {
+            "source": "bacon",
+            "target": "roasted_beef",
+            "weight": 1
+        },
+        {
+            "source": "bacon",
+            "target": "pork_sausage",
+            "weight": 1
+        },
+        {
+            "source": "cured_pork",
+            "target": "chicken",
+            "weight": 1
+        },
+        {
+            "source": "cured_pork",
+            "target": "roasted_beef",
+            "weight": 1
+        },
+        {
+            "source": "cured_pork",
+            "target": "pork_sausage",
+            "weight": 1
+        },
+        {
+            "source": "chicken",
+            "target": "roasted_beef",
+            "weight": 1
+        },
+        {
+            "source": "chicken",
+            "target": "pork_sausage",
+            "weight": 1
+        },
+        {
+            "source": "roasted_beef",
+            "target": "milk",
+            "weight": 1
+        },
+        {
+            "source": "roasted_beef",
+            "target": "peanut",
+            "weight": 1
+        },
+        {
+            "source": "roasted_beef",
+            "target": "coffee",
+            "weight": 1
+        },
+        {
+            "source": "roasted_beef",
+            "target": "peanut_butter",
+            "weight": 1
+        },
+        {
+            "source": "roasted_beef",
+            "target": "onion",
+            "weight": 1
+        },
+        {
+            "source": "roasted_beef",
+            "target": "roasted_peanut",
+            "weight": 1
+        },
+        {
+            "source": "roasted_beef",
+            "target": "soybean",
+            "weight": 1
+        },
+        {
+            "source": "roasted_beef",
+            "target": "caviar",
+            "weight": 1
+        },
+        {
+            "source": "roasted_beef",
+            "target": "lamb",
+            "weight": 1
+        },
+        {
+            "source": "roasted_beef",
+            "target": "sturgeon_caviar",
+            "weight": 1
+        },
+        {
+            "source": "roasted_beef",
+            "target": "shallot",
+            "weight": 1
+        },
+        {
+            "source": "roasted_beef",
+            "target": "baked_potato",
+            "weight": 1
+        },
+        {
+            "source": "roasted_beef",
+            "target": "garlic",
+            "weight": 1
+        },
+        {
+            "source": "roasted_beef",
+            "target": "pork_sausage",
+            "weight": 1
+        },
+        {
+            "source": "roasted_beef",
+            "target": "butter",
+            "weight": 1
+        },
+        {
+            "source": "roasted_beef",
+            "target": "potato",
+            "weight": 1
+        },
+        {
+            "source": "roasted_beef",
+            "target": "potato_chip",
+            "weight": 1
+        },
+        {
+            "source": "roasted_beef",
+            "target": "pork_liver",
+            "weight": 1
+        },
+        {
+            "source": "roasted_beef",
+            "target": "egg",
+            "weight": 1
+        },
+        {
+            "source": "roasted_peanut",
+            "target": "coffee",
+            "weight": 1
+        },
+        {
+            "source": "roasted_peanut",
+            "target": "peanut",
+            "weight": 1
+        },
+        {
+            "source": "roasted_peanut",
+            "target": "peanut_butter",
+            "weight": 1
+        },
+        {
+            "source": "roasted_peanut",
+            "target": "potato_chip",
+            "weight": 1
+        },
+        {
+            "source": "roasted_peanut",
+            "target": "soybean",
+            "weight": 1
+        },
+        {
+            "source": "roasted_peanut",
+            "target": "popcorn",
+            "weight": 1
+        },
+        {
+            "source": "roasted_peanut",
+            "target": "pork_liver",
+            "weight": 1
+        },
+        {
+            "source": "caviar",
+            "target": "smoked_salmon",
+            "weight": 1
+        },
+        {
+            "source": "caviar",
+            "target": "sturgeon_caviar",
+            "weight": 1
+        },
+        {
+            "source": "caviar",
+            "target": "salmon",
+            "weight": 1
+        },
+        {
+            "source": "caviar",
+            "target": "tuna",
+            "weight": 1
+        },
+        {
+            "source": "peanut",
+            "target": "peanut_butter",
+            "weight": 1
+        },
+        {
+            "source": "coffee",
+            "target": "cocoa",
+            "weight": 1
+        },
+        {
+            "source": "coffee",
+            "target": "katsuobushi",
+            "weight": 1
+        },
+        {
+            "source": "coffee",
+            "target": "jasmine_tea",
+            "weight": 1
+        },
+        {
+            "source": "coffee",
+            "target": "tea",
+            "weight": 1
+        },
+        {
+            "source": "coffee",
+            "target": "green_tea",
+            "weight": 1
+        },
+        {
+            "source": "coffee",
+            "target": "okra",
+            "weight": 1
+        },
+        {
+            "source": "coffee",
+            "target": "wood",
+            "weight": 1
+        },
+        {
+            "source": "coffee",
+            "target": "peanut_butter",
+            "weight": 1
+        },
+        {
+            "source": "coffee",
+            "target": "popcorn",
+            "weight": 1
+        },
+        {
+            "source": "coffee",
+            "target": "squid",
+            "weight": 1
+        },
+        {
+            "source": "coffee",
+            "target": "pork_liver",
+            "weight": 1
+        },
+        {
+            "source": "onion",
+            "target": "shallot",
+            "weight": 1
+        },
+        {
+            "source": "onion",
+            "target": "garlic",
+            "weight": 1
+        },
+        {
+            "source": "onion",
+            "target": "chive",
+            "weight": 1
+        },
+        {
+            "source": "baked_potato",
+            "target": "potato",
+            "weight": 1
+        },
+        {
+            "source": "peanut_butter",
+            "target": "potato_chip",
+            "weight": 1
+        },
+        {
+            "source": "peanut_butter",
+            "target": "pork_liver",
+            "weight": 1
+        },
+        {
+            "source": "peanut_butter",
+            "target": "soybean",
+            "weight": 1
+        },
+        {
+            "source": "peanut_butter",
+            "target": "popcorn",
+            "weight": 1
+        },
+        {
+            "source": "soybean",
+            "target": "mung_bean",
+            "weight": 1
+        },
+        {
+            "source": "soybean",
+            "target": "lima_bean",
+            "weight": 1
+        },
+        {
+            "source": "soybean",
+            "target": "bean",
+            "weight": 1
+        },
+        {
+            "source": "soybean",
+            "target": "kidney_bean",
+            "weight": 1
+        },
+        {
+            "source": "soybean",
+            "target": "red_bean",
+            "weight": 1
+        },
+        {
+            "source": "soybean",
+            "target": "black_bean",
+            "weight": 1
+        },
+        {
+            "source": "soybean",
+            "target": "okra",
+            "weight": 1
+        },
+        {
+            "source": "soybean",
+            "target": "red_kidney_bean",
+            "weight": 1
+        },
+        {
+            "source": "milk",
+            "target": "parmesan_cheese",
+            "weight": 1
+        },
+        {
+            "source": "milk",
+            "target": "cheddar_cheese",
+            "weight": 1
+        },
+        {
+            "source": "milk",
+            "target": "blue_cheese",
+            "weight": 1
+        },
+        {
+            "source": "sturgeon_caviar",
+            "target": "salmon",
+            "weight": 1
+        },
+        {
+            "source": "sturgeon_caviar",
+            "target": "tuna",
+            "weight": 1
+        },
+        {
+            "source": "sturgeon_caviar",
+            "target": "smoked_salmon",
+            "weight": 1
+        },
+        {
+            "source": "shallot",
+            "target": "leek",
+            "weight": 1
+        },
+        {
+            "source": "garlic",
+            "target": "leek",
+            "weight": 1
+        },
+        {
+            "source": "jamaican_rum",
+            "target": "rum",
+            "weight": 1
+        },
+        {
+            "source": "jamaican_rum",
+            "target": "champagne_wine",
+            "weight": 1
+        },
+        {
+            "source": "jamaican_rum",
+            "target": "blue_cheese",
+            "weight": 1
+        },
+        {
+            "source": "jamaican_rum",
+            "target": "port_wine",
+            "weight": 1
+        },
+        {
+            "source": "jamaican_rum",
+            "target": "whiskey",
+            "weight": 1
+        },
+        {
+            "source": "jamaican_rum",
+            "target": "parmesan_cheese",
+            "weight": 1
+        },
+        {
+            "source": "jamaican_rum",
+            "target": "sherry",
+            "weight": 1
+        },
+        {
+            "source": "jamaican_rum",
+            "target": "wine",
+            "weight": 1
+        },
+        {
+            "source": "rum",
+            "target": "port_wine",
+            "weight": 1
+        },
+        {
+            "source": "rum",
+            "target": "whiskey",
+            "weight": 1
+        },
+        {
+            "source": "rum",
+            "target": "parmesan_cheese",
+            "weight": 1
+        },
+        {
+            "source": "rum",
+            "target": "sherry",
+            "weight": 1
+        },
+        {
+            "source": "rum",
+            "target": "blue_cheese",
+            "weight": 1
+        },
+        {
+            "source": "port_wine",
+            "target": "champagne_wine",
+            "weight": 1
+        },
+        {
+            "source": "port_wine",
+            "target": "sherry",
+            "weight": 1
+        },
+        {
+            "source": "port_wine",
+            "target": "wine",
+            "weight": 1
+        },
+        {
+            "source": "champagne_wine",
+            "target": "sherry",
+            "weight": 1
+        },
+        {
+            "source": "champagne_wine",
+            "target": "wine",
+            "weight": 1
+        },
+        {
+            "source": "whiskey",
+            "target": "parmesan_cheese",
+            "weight": 1
+        },
+        {
+            "source": "whiskey",
+            "target": "sherry",
+            "weight": 1
+        },
+        {
+            "source": "sherry",
+            "target": "wine",
+            "weight": 1
+        },
+        {
+            "source": "blue_cheese",
+            "target": "parmesan_cheese",
+            "weight": 1
+        },
+        {
+            "source": "blue_cheese",
+            "target": "cheddar_cheese",
+            "weight": 1
+        },
+        {
+            "source": "blue_cheese",
+            "target": "camembert_cheese",
+            "weight": 1
+        },
+        {
+            "source": "blue_cheese",
+            "target": "swiss_cheese",
+            "weight": 1
+        },
+        {
+            "source": "blue_cheese",
+            "target": "cheese",
+            "weight": 1
+        },
+        {
+            "source": "blue_cheese",
+            "target": "roquefort_cheese",
+            "weight": 1
+        },
+        {
+            "source": "blue_cheese",
+            "target": "cream",
+            "weight": 1
+        },
+        {
+            "source": "blue_cheese",
+            "target": "provolone_cheese",
+            "weight": 1
+        },
+        {
+            "source": "blue_cheese",
+            "target": "romano_cheese",
+            "weight": 1
+        },
+        {
+            "source": "blue_cheese",
+            "target": "cottage_cheese",
+            "weight": 1
+        },
+        {
+            "source": "blue_cheese",
+            "target": "buttermilk",
+            "weight": 1
+        },
+        {
+            "source": "blue_cheese",
+            "target": "goat_cheese",
+            "weight": 1
+        },
+        {
+            "source": "blue_cheese",
+            "target": "cream_cheese",
+            "weight": 1
+        },
+        {
+            "source": "blue_cheese",
+            "target": "mozzarella_cheese",
+            "weight": 1
+        },
+        {
+            "source": "blue_cheese",
+            "target": "sheep_cheese",
+            "weight": 1
+        },
+        {
+            "source": "blue_cheese",
+            "target": "gruyere_cheese",
+            "weight": 1
+        },
+        {
+            "source": "blue_cheese",
+            "target": "feta_cheese",
+            "weight": 1
+        },
+        {
+            "source": "blue_cheese",
+            "target": "emmental_cheese",
+            "weight": 1
+        },
+        {
+            "source": "blue_cheese",
+            "target": "munster_cheese",
+            "weight": 1
+        },
+        {
+            "source": "parmesan_cheese",
+            "target": "camembert_cheese",
+            "weight": 1
+        },
+        {
+            "source": "parmesan_cheese",
+            "target": "swiss_cheese",
+            "weight": 1
+        },
+        {
+            "source": "parmesan_cheese",
+            "target": "cheddar_cheese",
+            "weight": 1
+        },
+        {
+            "source": "parmesan_cheese",
+            "target": "cheese",
+            "weight": 1
+        },
+        {
+            "source": "parmesan_cheese",
+            "target": "roquefort_cheese",
+            "weight": 1
+        },
+        {
+            "source": "parmesan_cheese",
+            "target": "provolone_cheese",
+            "weight": 1
+        },
+        {
+            "source": "parmesan_cheese",
+            "target": "romano_cheese",
+            "weight": 1
+        },
+        {
+            "source": "parmesan_cheese",
+            "target": "cream_cheese",
+            "weight": 1
+        },
+        {
+            "source": "parmesan_cheese",
+            "target": "gruyere_cheese",
+            "weight": 1
+        },
+        {
+            "source": "parmesan_cheese",
+            "target": "cottage_cheese",
+            "weight": 1
+        },
+        {
+            "source": "parmesan_cheese",
+            "target": "goat_cheese",
+            "weight": 1
+        },
+        {
+            "source": "parmesan_cheese",
+            "target": "mozzarella_cheese",
+            "weight": 1
+        },
+        {
+            "source": "parmesan_cheese",
+            "target": "sheep_cheese",
+            "weight": 1
+        },
+        {
+            "source": "parmesan_cheese",
+            "target": "feta_cheese",
+            "weight": 1
+        },
+        {
+            "source": "parmesan_cheese",
+            "target": "emmental_cheese",
+            "weight": 1
+        },
+        {
+            "source": "parmesan_cheese",
+            "target": "munster_cheese",
+            "weight": 1
+        },
+        {
+            "source": "cocoa",
+            "target": "katsuobushi",
+            "weight": 1
+        },
+        {
+            "source": "swiss_cheese",
+            "target": "cheddar_cheese",
+            "weight": 1
+        },
+        {
+            "source": "swiss_cheese",
+            "target": "camembert_cheese",
+            "weight": 1
+        },
+        {
+            "source": "swiss_cheese",
+            "target": "provolone_cheese",
+            "weight": 1
+        },
+        {
+            "source": "swiss_cheese",
+            "target": "cheese",
+            "weight": 1
+        },
+        {
+            "source": "swiss_cheese",
+            "target": "sheep_cheese",
+            "weight": 1
+        },
+        {
+            "source": "swiss_cheese",
+            "target": "romano_cheese",
+            "weight": 1
+        },
+        {
+            "source": "swiss_cheese",
+            "target": "roquefort_cheese",
+            "weight": 1
+        },
+        {
+            "source": "swiss_cheese",
+            "target": "emmental_cheese",
+            "weight": 1
+        },
+        {
+            "source": "swiss_cheese",
+            "target": "feta_cheese",
+            "weight": 1
+        },
+        {
+            "source": "swiss_cheese",
+            "target": "cottage_cheese",
+            "weight": 1
+        },
+        {
+            "source": "swiss_cheese",
+            "target": "mozzarella_cheese",
+            "weight": 1
+        },
+        {
+            "source": "swiss_cheese",
+            "target": "cream",
+            "weight": 1
+        },
+        {
+            "source": "swiss_cheese",
+            "target": "goat_cheese",
+            "weight": 1
+        },
+        {
+            "source": "swiss_cheese",
+            "target": "cream_cheese",
+            "weight": 1
+        },
+        {
+            "source": "swiss_cheese",
+            "target": "munster_cheese",
+            "weight": 1
+        },
+        {
+            "source": "swiss_cheese",
+            "target": "gruyere_cheese",
+            "weight": 1
+        },
+        {
+            "source": "cheddar_cheese",
+            "target": "camembert_cheese",
+            "weight": 1
+        },
+        {
+            "source": "cheddar_cheese",
+            "target": "provolone_cheese",
+            "weight": 1
+        },
+        {
+            "source": "cheddar_cheese",
+            "target": "cheese",
+            "weight": 1
+        },
+        {
+            "source": "cheddar_cheese",
+            "target": "feta_cheese",
+            "weight": 1
+        },
+        {
+            "source": "cheddar_cheese",
+            "target": "cream",
+            "weight": 1
+        },
+        {
+            "source": "cheddar_cheese",
+            "target": "romano_cheese",
+            "weight": 1
+        },
+        {
+            "source": "cheddar_cheese",
+            "target": "roquefort_cheese",
+            "weight": 1
+        },
+        {
+            "source": "cheddar_cheese",
+            "target": "emmental_cheese",
+            "weight": 1
+        },
+        {
+            "source": "cheddar_cheese",
+            "target": "buttermilk",
+            "weight": 1
+        },
+        {
+            "source": "cheddar_cheese",
+            "target": "cottage_cheese",
+            "weight": 1
+        },
+        {
+            "source": "cheddar_cheese",
+            "target": "goat_cheese",
+            "weight": 1
+        },
+        {
+            "source": "cheddar_cheese",
+            "target": "cream_cheese",
+            "weight": 1
+        },
+        {
+            "source": "cheddar_cheese",
+            "target": "mozzarella_cheese",
+            "weight": 1
+        },
+        {
+            "source": "cheddar_cheese",
+            "target": "munster_cheese",
+            "weight": 1
+        },
+        {
+            "source": "cheddar_cheese",
+            "target": "sheep_cheese",
+            "weight": 1
+        },
+        {
+            "source": "cheddar_cheese",
+            "target": "gruyere_cheese",
+            "weight": 1
+        },
+        {
+            "source": "gruyere_cheese",
+            "target": "camembert_cheese",
+            "weight": 1
+        },
+        {
+            "source": "gruyere_cheese",
+            "target": "provolone_cheese",
+            "weight": 1
+        },
+        {
+            "source": "gruyere_cheese",
+            "target": "cheese",
+            "weight": 1
+        },
+        {
+            "source": "gruyere_cheese",
+            "target": "sheep_cheese",
+            "weight": 1
+        },
+        {
+            "source": "gruyere_cheese",
+            "target": "romano_cheese",
+            "weight": 1
+        },
+        {
+            "source": "gruyere_cheese",
+            "target": "roquefort_cheese",
+            "weight": 1
+        },
+        {
+            "source": "gruyere_cheese",
+            "target": "emmental_cheese",
+            "weight": 1
+        },
+        {
+            "source": "gruyere_cheese",
+            "target": "feta_cheese",
+            "weight": 1
+        },
+        {
+            "source": "gruyere_cheese",
+            "target": "cottage_cheese",
+            "weight": 1
+        },
+        {
+            "source": "gruyere_cheese",
+            "target": "mozzarella_cheese",
+            "weight": 1
+        },
+        {
+            "source": "gruyere_cheese",
+            "target": "cream_cheese",
+            "weight": 1
+        },
+        {
+            "source": "gruyere_cheese",
+            "target": "goat_cheese",
+            "weight": 1
+        },
+        {
+            "source": "gruyere_cheese",
+            "target": "munster_cheese",
+            "weight": 1
+        },
+        {
+            "source": "rye_bread",
+            "target": "wheat_bread",
+            "weight": 1
+        },
+        {
+            "source": "rye_bread",
+            "target": "bread",
+            "weight": 1
+        },
+        {
+            "source": "wheat_bread",
+            "target": "bread",
+            "weight": 1
+        },
+        {
+            "source": "bread",
+            "target": "white_bread",
+            "weight": 1
+        },
+        {
+            "source": "geranium",
+            "target": "gardenia",
+            "weight": 1
+        },
+        {
+            "source": "geranium",
+            "target": "flower",
+            "weight": 1
+        },
+        {
+            "source": "geranium",
+            "target": "carnation",
+            "weight": 1
+        },
+        {
+            "source": "vanilla",
+            "target": "green_tea",
+            "weight": 1
+        },
+        {
+            "source": "tea",
+            "target": "jasmine_tea",
+            "weight": 1
+        },
+        {
+            "source": "tea",
+            "target": "peppermint_oil",
+            "weight": 1
+        },
+        {
+            "source": "tea",
+            "target": "green_tea",
+            "weight": 1
+        },
+        {
+            "source": "tea",
+            "target": "peppermint",
+            "weight": 1
+        },
+        {
+            "source": "tea",
+            "target": "japanese_plum",
+            "weight": 1
+        },
+        {
+            "source": "peppermint",
+            "target": "jasmine_tea",
+            "weight": 1
+        },
+        {
+            "source": "peppermint",
+            "target": "green_tea",
+            "weight": 1
+        },
+        {
+            "source": "peppermint",
+            "target": "peppermint_oil",
+            "weight": 1
+        },
+        {
+            "source": "jasmine_tea",
+            "target": "peppermint_oil",
+            "weight": 1
+        },
+        {
+            "source": "jasmine_tea",
+            "target": "japanese_plum",
+            "weight": 1
+        },
+        {
+            "source": "jasmine_tea",
+            "target": "green_tea",
+            "weight": 1
+        },
+        {
+            "source": "jasmine",
+            "target": "gardenia",
+            "weight": 1
+        },
+        {
+            "source": "jasmine",
+            "target": "flower",
+            "weight": 1
+        },
+        {
+            "source": "jasmine",
+            "target": "carnation",
+            "weight": 1
+        },
+        {
+            "source": "jasmine",
+            "target": "green_tea",
+            "weight": 1
+        },
+        {
+            "source": "jasmine",
+            "target": "orange_flower",
+            "weight": 1
+        },
+        {
+            "source": "raspberry",
+            "target": "huckleberry",
+            "weight": 1
+        },
+        {
+            "source": "raspberry",
+            "target": "juniper_berry",
+            "weight": 1
+        },
+        {
+            "source": "raspberry",
+            "target": "elderberry",
+            "weight": 1
+        },
+        {
+            "source": "raspberry",
+            "target": "black_raspberry",
+            "weight": 1
+        },
+        {
+            "source": "raspberry",
+            "target": "blackberry",
+            "weight": 1
+        },
+        {
+            "source": "raspberry",
+            "target": "berry",
+            "weight": 1
+        },
+        {
+            "source": "raspberry",
+            "target": "blueberry",
+            "weight": 1
+        },
+        {
+            "source": "bell_pepper",
+            "target": "cayenne",
+            "weight": 1
+        },
+        {
+            "source": "bell_pepper",
+            "target": "pepper",
+            "weight": 1
+        },
+        {
+            "source": "bell_pepper",
+            "target": "green_bell_pepper",
+            "weight": 1
+        },
+        {
+            "source": "bell_pepper",
+            "target": "black_pepper",
+            "weight": 1
+        },
+        {
+            "source": "bell_pepper",
+            "target": "tabasco_pepper",
+            "weight": 1
+        },
+        {
+            "source": "bell_pepper",
+            "target": "thai_pepper",
+            "weight": 1
+        },
+        {
+            "source": "peppermint_oil",
+            "target": "green_tea",
+            "weight": 1
+        },
+        {
+            "source": "japanese_plum",
+            "target": "green_tea",
+            "weight": 1
+        },
+        {
+            "source": "camembert_cheese",
+            "target": "provolone_cheese",
+            "weight": 1
+        },
+        {
+            "source": "camembert_cheese",
+            "target": "cheese",
+            "weight": 1
+        },
+        {
+            "source": "camembert_cheese",
+            "target": "sheep_cheese",
+            "weight": 1
+        },
+        {
+            "source": "camembert_cheese",
+            "target": "romano_cheese",
+            "weight": 1
+        },
+        {
+            "source": "camembert_cheese",
+            "target": "roquefort_cheese",
+            "weight": 1
+        },
+        {
+            "source": "camembert_cheese",
+            "target": "emmental_cheese",
+            "weight": 1
+        },
+        {
+            "source": "camembert_cheese",
+            "target": "feta_cheese",
+            "weight": 1
+        },
+        {
+            "source": "camembert_cheese",
+            "target": "cottage_cheese",
+            "weight": 1
+        },
+        {
+            "source": "camembert_cheese",
+            "target": "mozzarella_cheese",
+            "weight": 1
+        },
+        {
+            "source": "camembert_cheese",
+            "target": "cream_cheese",
+            "weight": 1
+        },
+        {
+            "source": "camembert_cheese",
+            "target": "goat_cheese",
+            "weight": 1
+        },
+        {
+            "source": "camembert_cheese",
+            "target": "munster_cheese",
+            "weight": 1
+        },
+        {
+            "source": "cheese",
+            "target": "provolone_cheese",
+            "weight": 1
+        },
+        {
+            "source": "cheese",
+            "target": "romano_cheese",
+            "weight": 1
+        },
+        {
+            "source": "cheese",
+            "target": "roquefort_cheese",
+            "weight": 1
+        },
+        {
+            "source": "cheese",
+            "target": "emmental_cheese",
+            "weight": 1
+        },
+        {
+            "source": "cheese",
+            "target": "cottage_cheese",
+            "weight": 1
+        },
+        {
+            "source": "cheese",
+            "target": "goat_cheese",
+            "weight": 1
+        },
+        {
+            "source": "cheese",
+            "target": "cream_cheese",
+            "weight": 1
+        },
+        {
+            "source": "cheese",
+            "target": "mozzarella_cheese",
+            "weight": 1
+        },
+        {
+            "source": "cheese",
+            "target": "munster_cheese",
+            "weight": 1
+        },
+        {
+            "source": "cheese",
+            "target": "sheep_cheese",
+            "weight": 1
+        },
+        {
+            "source": "cheese",
+            "target": "feta_cheese",
+            "weight": 1
+        },
+        {
+            "source": "roquefort_cheese",
+            "target": "provolone_cheese",
+            "weight": 1
+        },
+        {
+            "source": "roquefort_cheese",
+            "target": "sheep_cheese",
+            "weight": 1
+        },
+        {
+            "source": "roquefort_cheese",
+            "target": "romano_cheese",
+            "weight": 1
+        },
+        {
+            "source": "roquefort_cheese",
+            "target": "feta_cheese",
+            "weight": 1
+        },
+        {
+            "source": "roquefort_cheese",
+            "target": "emmental_cheese",
+            "weight": 1
+        },
+        {
+            "source": "roquefort_cheese",
+            "target": "cottage_cheese",
+            "weight": 1
+        },
+        {
+            "source": "roquefort_cheese",
+            "target": "mozzarella_cheese",
+            "weight": 1
+        },
+        {
+            "source": "roquefort_cheese",
+            "target": "cream_cheese",
+            "weight": 1
+        },
+        {
+            "source": "roquefort_cheese",
+            "target": "goat_cheese",
+            "weight": 1
+        },
+        {
+            "source": "roquefort_cheese",
+            "target": "munster_cheese",
+            "weight": 1
+        },
+        {
+            "source": "provolone_cheese",
+            "target": "sheep_cheese",
+            "weight": 1
+        },
+        {
+            "source": "provolone_cheese",
+            "target": "romano_cheese",
+            "weight": 1
+        },
+        {
+            "source": "provolone_cheese",
+            "target": "emmental_cheese",
+            "weight": 1
+        },
+        {
+            "source": "provolone_cheese",
+            "target": "feta_cheese",
+            "weight": 1
+        },
+        {
+            "source": "provolone_cheese",
+            "target": "cottage_cheese",
+            "weight": 1
+        },
+        {
+            "source": "provolone_cheese",
+            "target": "goat_cheese",
+            "weight": 1
+        },
+        {
+            "source": "provolone_cheese",
+            "target": "cream_cheese",
+            "weight": 1
+        },
+        {
+            "source": "provolone_cheese",
+            "target": "mozzarella_cheese",
+            "weight": 1
+        },
+        {
+            "source": "provolone_cheese",
+            "target": "munster_cheese",
+            "weight": 1
+        },
+        {
+            "source": "romano_cheese",
+            "target": "sheep_cheese",
+            "weight": 1
+        },
+        {
+            "source": "romano_cheese",
+            "target": "emmental_cheese",
+            "weight": 1
+        },
+        {
+            "source": "romano_cheese",
+            "target": "cottage_cheese",
+            "weight": 1
+        },
+        {
+            "source": "romano_cheese",
+            "target": "goat_cheese",
+            "weight": 1
+        },
+        {
+            "source": "romano_cheese",
+            "target": "cream_cheese",
+            "weight": 1
+        },
+        {
+            "source": "romano_cheese",
+            "target": "mozzarella_cheese",
+            "weight": 1
+        },
+        {
+            "source": "romano_cheese",
+            "target": "munster_cheese",
+            "weight": 1
+        },
+        {
+            "source": "romano_cheese",
+            "target": "feta_cheese",
+            "weight": 1
+        },
+        {
+            "source": "cream_cheese",
+            "target": "sheep_cheese",
+            "weight": 1
+        },
+        {
+            "source": "cream_cheese",
+            "target": "emmental_cheese",
+            "weight": 1
+        },
+        {
+            "source": "cream_cheese",
+            "target": "feta_cheese",
+            "weight": 1
+        },
+        {
+            "source": "cream_cheese",
+            "target": "cottage_cheese",
+            "weight": 1
+        },
+        {
+            "source": "cream_cheese",
+            "target": "mozzarella_cheese",
+            "weight": 1
+        },
+        {
+            "source": "cream_cheese",
+            "target": "goat_cheese",
+            "weight": 1
+        },
+        {
+            "source": "cream_cheese",
+            "target": "munster_cheese",
+            "weight": 1
+        },
+        {
+            "source": "cottage_cheese",
+            "target": "sheep_cheese",
+            "weight": 1
+        },
+        {
+            "source": "cottage_cheese",
+            "target": "emmental_cheese",
+            "weight": 1
+        },
+        {
+            "source": "cottage_cheese",
+            "target": "feta_cheese",
+            "weight": 1
+        },
+        {
+            "source": "cottage_cheese",
+            "target": "goat_cheese",
+            "weight": 1
+        },
+        {
+            "source": "cottage_cheese",
+            "target": "mozzarella_cheese",
+            "weight": 1
+        },
+        {
+            "source": "cottage_cheese",
+            "target": "munster_cheese",
+            "weight": 1
+        },
+        {
+            "source": "goat_cheese",
+            "target": "sheep_cheese",
+            "weight": 1
+        },
+        {
+            "source": "goat_cheese",
+            "target": "emmental_cheese",
+            "weight": 1
+        },
+        {
+            "source": "goat_cheese",
+            "target": "feta_cheese",
+            "weight": 1
+        },
+        {
+            "source": "goat_cheese",
+            "target": "mozzarella_cheese",
+            "weight": 1
+        },
+        {
+            "source": "goat_cheese",
+            "target": "munster_cheese",
+            "weight": 1
+        },
+        {
+            "source": "mozzarella_cheese",
+            "target": "sheep_cheese",
+            "weight": 1
+        },
+        {
+            "source": "mozzarella_cheese",
+            "target": "emmental_cheese",
+            "weight": 1
+        },
+        {
+            "source": "mozzarella_cheese",
+            "target": "feta_cheese",
+            "weight": 1
+        },
+        {
+            "source": "mozzarella_cheese",
+            "target": "munster_cheese",
+            "weight": 1
+        },
+        {
+            "source": "sheep_cheese",
+            "target": "feta_cheese",
+            "weight": 1
+        },
+        {
+            "source": "sheep_cheese",
+            "target": "emmental_cheese",
+            "weight": 1
+        },
+        {
+            "source": "sheep_cheese",
+            "target": "munster_cheese",
+            "weight": 1
+        },
+        {
+            "source": "feta_cheese",
+            "target": "emmental_cheese",
+            "weight": 1
+        },
+        {
+            "source": "feta_cheese",
+            "target": "munster_cheese",
+            "weight": 1
+        },
+        {
+            "source": "emmental_cheese",
+            "target": "munster_cheese",
+            "weight": 1
+        },
+        {
+            "source": "huckleberry",
+            "target": "juniper_berry",
+            "weight": 1
+        },
+        {
+            "source": "huckleberry",
+            "target": "black_currant",
+            "weight": 1
+        },
+        {
+            "source": "huckleberry",
+            "target": "elderberry",
+            "weight": 1
+        },
+        {
+            "source": "huckleberry",
+            "target": "black_raspberry",
+            "weight": 1
+        },
+        {
+            "source": "huckleberry",
+            "target": "blackberry",
+            "weight": 1
+        },
+        {
+            "source": "huckleberry",
+            "target": "cranberry",
+            "weight": 1
+        },
+        {
+            "source": "huckleberry",
+            "target": "blueberry",
+            "weight": 1
+        },
+        {
+            "source": "huckleberry",
+            "target": "berry",
+            "weight": 1
+        },
+        {
+            "source": "juniper_berry",
+            "target": "black_currant",
+            "weight": 1
+        },
+        {
+            "source": "juniper_berry",
+            "target": "black_raspberry",
+            "weight": 1
+        },
+        {
+            "source": "juniper_berry",
+            "target": "elderberry",
+            "weight": 1
+        },
+        {
+            "source": "juniper_berry",
+            "target": "blackberry",
+            "weight": 1
+        },
+        {
+            "source": "juniper_berry",
+            "target": "cranberry",
+            "weight": 1
+        },
+        {
+            "source": "juniper_berry",
+            "target": "blueberry",
+            "weight": 1
+        },
+        {
+            "source": "juniper_berry",
+            "target": "berry",
+            "weight": 1
+        },
+        {
+            "source": "blackberry",
+            "target": "black_currant",
+            "weight": 1
+        },
+        {
+            "source": "blackberry",
+            "target": "black_raspberry",
+            "weight": 1
+        },
+        {
+            "source": "blackberry",
+            "target": "berry",
+            "weight": 1
+        },
+        {
+            "source": "blackberry",
+            "target": "blueberry",
+            "weight": 1
+        },
+        {
+            "source": "black_currant",
+            "target": "black_raspberry",
+            "weight": 1
+        },
+        {
+            "source": "black_currant",
+            "target": "blueberry",
+            "weight": 1
+        },
+        {
+            "source": "black_currant",
+            "target": "berry",
+            "weight": 1
+        },
+        {
+            "source": "elderberry",
+            "target": "black_raspberry",
+            "weight": 1
+        },
+        {
+            "source": "elderberry",
+            "target": "berry",
+            "weight": 1
+        },
+        {
+            "source": "elderberry",
+            "target": "cranberry",
+            "weight": 1
+        },
+        {
+            "source": "elderberry",
+            "target": "blueberry",
+            "weight": 1
+        },
+        {
+            "source": "blueberry",
+            "target": "black_raspberry",
+            "weight": 1
+        },
+        {
+            "source": "blueberry",
+            "target": "cranberry",
+            "weight": 1
+        },
+        {
+            "source": "blueberry",
+            "target": "berry",
+            "weight": 1
+        },
+        {
+            "source": "black_raspberry",
+            "target": "cranberry",
+            "weight": 1
+        },
+        {
+            "source": "black_raspberry",
+            "target": "berry",
+            "weight": 1
+        },
+        {
+            "source": "berry",
+            "target": "cranberry",
+            "weight": 1
+        },
+        {
+            "source": "porcini",
+            "target": "matsutake",
+            "weight": 1
+        },
+        {
+            "source": "porcini",
+            "target": "enokidake",
+            "weight": 1
+        },
+        {
+            "source": "porcini",
+            "target": "shiitake",
+            "weight": 1
+        },
+        {
+            "source": "porcini",
+            "target": "mushroom",
+            "weight": 1
+        },
+        {
+            "source": "matsutake",
+            "target": "shiitake",
+            "weight": 1
+        },
+        {
+            "source": "matsutake",
+            "target": "enokidake",
+            "weight": 1
+        },
+        {
+            "source": "matsutake",
+            "target": "mushroom",
+            "weight": 1
+        },
+        {
+            "source": "enokidake",
+            "target": "shiitake",
+            "weight": 1
+        },
+        {
+            "source": "enokidake",
+            "target": "mushroom",
+            "weight": 1
+        },
+        {
+            "source": "shiitake",
+            "target": "mushroom",
+            "weight": 1
+        },
+        {
+            "source": "smoked_salmon",
+            "target": "smoked_fish",
+            "weight": 1
+        },
+        {
+            "source": "smoked_salmon",
+            "target": "cod",
+            "weight": 1
+        },
+        {
+            "source": "smoked_salmon",
+            "target": "haddock",
+            "weight": 1
+        },
+        {
+            "source": "smoked_salmon",
+            "target": "mackerel",
+            "weight": 1
+        },
+        {
+            "source": "smoked_salmon",
+            "target": "salmon",
+            "weight": 1
+        },
+        {
+            "source": "smoked_salmon",
+            "target": "eel",
+            "weight": 1
+        },
+        {
+            "source": "smoked_salmon",
+            "target": "catfish",
+            "weight": 1
+        },
+        {
+            "source": "smoked_salmon",
+            "target": "tuna",
+            "weight": 1
+        },
+        {
+            "source": "smoked_salmon",
+            "target": "herring",
+            "weight": 1
+        },
+        {
+            "source": "smoked_salmon",
+            "target": "fish",
+            "weight": 1
+        },
+        {
+            "source": "salmon",
+            "target": "smoked_fish",
+            "weight": 1
+        },
+        {
+            "source": "salmon",
+            "target": "cod",
+            "weight": 1
+        },
+        {
+            "source": "salmon",
+            "target": "haddock",
+            "weight": 1
+        },
+        {
+            "source": "salmon",
+            "target": "mackerel",
+            "weight": 1
+        },
+        {
+            "source": "salmon",
+            "target": "eel",
+            "weight": 1
+        },
+        {
+            "source": "salmon",
+            "target": "fish",
+            "weight": 1
+        },
+        {
+            "source": "salmon",
+            "target": "herring",
+            "weight": 1
+        },
+        {
+            "source": "salmon",
+            "target": "catfish",
+            "weight": 1
+        },
+        {
+            "source": "salmon",
+            "target": "tuna",
+            "weight": 1
+        },
+        {
+            "source": "tuna",
+            "target": "smoked_fish",
+            "weight": 1
+        },
+        {
+            "source": "tuna",
+            "target": "cod",
+            "weight": 1
+        },
+        {
+            "source": "tuna",
+            "target": "haddock",
+            "weight": 1
+        },
+        {
+            "source": "tuna",
+            "target": "mackerel",
+            "weight": 1
+        },
+        {
+            "source": "tuna",
+            "target": "eel",
+            "weight": 1
+        },
+        {
+            "source": "tuna",
+            "target": "catfish",
+            "weight": 1
+        },
+        {
+            "source": "tuna",
+            "target": "fish",
+            "weight": 1
+        },
+        {
+            "source": "tuna",
+            "target": "herring",
+            "weight": 1
+        },
+        {
+            "source": "chive",
+            "target": "leek",
+            "weight": 1
+        },
+        {
+            "source": "mung_bean",
+            "target": "kidney_bean",
+            "weight": 1
+        },
+        {
+            "source": "mung_bean",
+            "target": "red_bean",
+            "weight": 1
+        },
+        {
+            "source": "mung_bean",
+            "target": "black_bean",
+            "weight": 1
+        },
+        {
+            "source": "mung_bean",
+            "target": "lima_bean",
+            "weight": 1
+        },
+        {
+            "source": "mung_bean",
+            "target": "bean",
+            "weight": 1
+        },
+        {
+            "source": "mung_bean",
+            "target": "red_kidney_bean",
+            "weight": 1
+        },
+        {
+            "source": "lima_bean",
+            "target": "kidney_bean",
+            "weight": 1
+        },
+        {
+            "source": "lima_bean",
+            "target": "red_bean",
+            "weight": 1
+        },
+        {
+            "source": "lima_bean",
+            "target": "black_bean",
+            "weight": 1
+        },
+        {
+            "source": "lima_bean",
+            "target": "bean",
+            "weight": 1
+        },
+        {
+            "source": "lima_bean",
+            "target": "red_kidney_bean",
+            "weight": 1
+        },
+        {
+            "source": "bean",
+            "target": "kidney_bean",
+            "weight": 1
+        },
+        {
+            "source": "bean",
+            "target": "red_bean",
+            "weight": 1
+        },
+        {
+            "source": "bean",
+            "target": "black_bean",
+            "weight": 1
+        },
+        {
+            "source": "bean",
+            "target": "red_kidney_bean",
+            "weight": 1
+        },
+        {
+            "source": "kidney_bean",
+            "target": "red_bean",
+            "weight": 1
+        },
+        {
+            "source": "kidney_bean",
+            "target": "black_bean",
+            "weight": 1
+        },
+        {
+            "source": "kidney_bean",
+            "target": "red_kidney_bean",
+            "weight": 1
+        },
+        {
+            "source": "red_bean",
+            "target": "black_bean",
+            "weight": 1
+        },
+        {
+            "source": "red_bean",
+            "target": "red_kidney_bean",
+            "weight": 1
+        },
+        {
+            "source": "black_bean",
+            "target": "red_kidney_bean",
+            "weight": 1
+        },
+        {
+            "source": "cayenne",
+            "target": "pepper",
+            "weight": 1
+        },
+        {
+            "source": "cayenne",
+            "target": "green_bell_pepper",
+            "weight": 1
+        },
+        {
+            "source": "cayenne",
+            "target": "black_pepper",
+            "weight": 1
+        },
+        {
+            "source": "cayenne",
+            "target": "tabasco_pepper",
+            "weight": 1
+        },
+        {
+            "source": "cayenne",
+            "target": "thai_pepper",
+            "weight": 1
+        },
+        {
+            "source": "pepper",
+            "target": "thai_pepper",
+            "weight": 1
+        },
+        {
+            "source": "pepper",
+            "target": "black_pepper",
+            "weight": 1
+        },
+        {
+            "source": "pepper",
+            "target": "green_bell_pepper",
+            "weight": 1
+        },
+        {
+            "source": "pepper",
+            "target": "tabasco_pepper",
+            "weight": 1
+        },
+        {
+            "source": "green_bell_pepper",
+            "target": "thai_pepper",
+            "weight": 1
+        },
+        {
+            "source": "green_bell_pepper",
+            "target": "black_pepper",
+            "weight": 1
+        },
+        {
+            "source": "green_bell_pepper",
+            "target": "tabasco_pepper",
+            "weight": 1
+        },
+        {
+            "source": "black_pepper",
+            "target": "thai_pepper",
+            "weight": 1
+        },
+        {
+            "source": "black_pepper",
+            "target": "tabasco_pepper",
+            "weight": 1
+        },
+        {
+            "source": "tabasco_pepper",
+            "target": "thai_pepper",
+            "weight": 1
+        },
+        {
+            "source": "gardenia",
+            "target": "carnation",
+            "weight": 1
+        },
+        {
+            "source": "gardenia",
+            "target": "lavender",
+            "weight": 1
+        },
+        {
+            "source": "gardenia",
+            "target": "rose",
+            "weight": 1
+        },
+        {
+            "source": "gardenia",
+            "target": "flower",
+            "weight": 1
+        },
+        {
+            "source": "gardenia",
+            "target": "orange_flower",
+            "weight": 1
+        },
+        {
+            "source": "flower",
+            "target": "carnation",
+            "weight": 1
+        },
+        {
+            "source": "flower",
+            "target": "lavender",
+            "weight": 1
+        },
+        {
+            "source": "flower",
+            "target": "rose",
+            "weight": 1
+        },
+        {
+            "source": "flower",
+            "target": "orange_flower",
+            "weight": 1
+        },
+        {
+            "source": "carnation",
+            "target": "orange_flower",
+            "weight": 1
+        },
+        {
+            "source": "carnation",
+            "target": "rose",
+            "weight": 1
+        },
+        {
+            "source": "carnation",
+            "target": "lavender",
+            "weight": 1
+        },
+        {
+            "source": "rice",
+            "target": "brown_rice",
+            "weight": 1
+        },
+        {
+            "source": "vegetable",
+            "target": "watercress",
+            "weight": 1
+        },
+        {
+            "source": "smoked_fish",
+            "target": "cod",
+            "weight": 1
+        },
+        {
+            "source": "smoked_fish",
+            "target": "haddock",
+            "weight": 1
+        },
+        {
+            "source": "smoked_fish",
+            "target": "mackerel",
+            "weight": 1
+        },
+        {
+            "source": "smoked_fish",
+            "target": "eel",
+            "weight": 1
+        },
+        {
+            "source": "smoked_fish",
+            "target": "catfish",
+            "weight": 1
+        },
+        {
+            "source": "smoked_fish",
+            "target": "herring",
+            "weight": 1
+        },
+        {
+            "source": "smoked_fish",
+            "target": "fish",
+            "weight": 1
+        },
+        {
+            "source": "cod",
+            "target": "eel",
+            "weight": 1
+        },
+        {
+            "source": "cod",
+            "target": "fish",
+            "weight": 1
+        },
+        {
+            "source": "cod",
+            "target": "herring",
+            "weight": 1
+        },
+        {
+            "source": "cod",
+            "target": "mackerel",
+            "weight": 1
+        },
+        {
+            "source": "cod",
+            "target": "haddock",
+            "weight": 1
+        },
+        {
+            "source": "cod",
+            "target": "catfish",
+            "weight": 1
+        },
+        {
+            "source": "haddock",
+            "target": "eel",
+            "weight": 1
+        },
+        {
+            "source": "haddock",
+            "target": "fish",
+            "weight": 1
+        },
+        {
+            "source": "haddock",
+            "target": "herring",
+            "weight": 1
+        },
+        {
+            "source": "haddock",
+            "target": "mackerel",
+            "weight": 1
+        },
+        {
+            "source": "haddock",
+            "target": "catfish",
+            "weight": 1
+        },
+        {
+            "source": "mackerel",
+            "target": "eel",
+            "weight": 1
+        },
+        {
+            "source": "mackerel",
+            "target": "fish",
+            "weight": 1
+        },
+        {
+            "source": "mackerel",
+            "target": "herring",
+            "weight": 1
+        },
+        {
+            "source": "mackerel",
+            "target": "catfish",
+            "weight": 1
+        },
+        {
+            "source": "eel",
+            "target": "fish",
+            "weight": 1
+        },
+        {
+            "source": "eel",
+            "target": "catfish",
+            "weight": 1
+        },
+        {
+            "source": "eel",
+            "target": "herring",
+            "weight": 1
+        },
+        {
+            "source": "catfish",
+            "target": "fish",
+            "weight": 1
+        },
+        {
+            "source": "catfish",
+            "target": "herring",
+            "weight": 1
+        },
+        {
+            "source": "herring",
+            "target": "fish",
+            "weight": 1
+        },
+        {
+            "source": "lovage",
+            "target": "leaf",
+            "weight": 1
+        },
+        {
+            "source": "almond",
+            "target": "roasted_almond",
+            "weight": 1
+        },
+        {
+            "source": "coconut",
+            "target": "coconut_oil",
+            "weight": 1
+        }
+    ]
+}

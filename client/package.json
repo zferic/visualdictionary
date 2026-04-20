@@ -1,0 +1,81 @@
+{
+  "name": "client",
+  "version": "0.2.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.6.0",
+    "@emotion/styled": "^11.6.0",
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@fortawesome/react-fontawesome": "^0.1.16",
+    "@material-ui/core": "^4.12.3",
+    "@material-ui/icons": "^4.11.2",
+    "@mui/icons-material": "^5.1.1",
+    "@mui/material": "^5.1.1",
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.5",
+    "@testing-library/user-event": "^12.8.3",
+    "@upsetjs/react": "^1.9.1",
+    "bootstrap": "^4.6.0",
+    "d3": "^6.7.0",
+    "d3-scale-chromatic": "^2.0.0",
+    "emailjs-com": "^3.2.0",
+    "install": "^0.13.0",
+    "lodash": "^4.17.21",
+    "node-url-shortener": "^2.0.0",
+    "npm": "^8.1.3",
+    "react": "^17.0.2",
+    "react-bootstrap": "^1.5.2",
+    "react-d3-chart-graphs": "^6.0.3",
+    "react-data-table-component": "^7.4.5",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.2.0",
+    "react-papaparse": "^3.18.1",
+    "react-reflex": "^4.0.0",
+    "react-scripts": "4.0.3",
+    "react-simple-tree-menu": "^1.1.18",
+    "reactstrap": "^9.0.0",
+    "styled-components": "^5.3.3",
+    "web-vitals": "^1.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "eslint": "^7.23.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-prettier": "^8.1.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-prettier": "^3.3.1",
+    "eslint-plugin-react": "^7.23.1",
+    "eslint-plugin-react-hooks": "^1.7.0",
+    "prettier": "^2.2.1",
+    "resize-observer-polyfill": "^1.5.1"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,19 @@
+{
+  "meta":[
+    {
+      "name":"id",
+      "type":"categorical",
+      "group":"nodes"
+    },
+    {
+      "name":"group",
+      "type":"discrete",
+      "group":"nodes"
+    },
+    {
+      "name":"value",
+      "type":"discrete",
+      "group":"links"
+    }
+  ]
+}

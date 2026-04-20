@@ -1,0 +1,107 @@
+Type,Section_header,Form_Name,Analyte_Name,Visit_ID,Variable / Field Name,Field Type,Field Label,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Aminomethylphosphoric Acid,1,conc,Decimal,Analyte concentration ,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Aminomethylphosphoric Acid,1,concunits,text,Analyte concentration units,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Aminomethylphosphoric Acid,1,BLOD,Integer,Below Limit of Detection,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Aminomethylphosphoric Acid,1,LOD,Decimal,Limit of Detection,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Aminomethylphosphoric Acid,1,date_analyzed,,Date of Analysis,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Aminomethylphosphoric Acid,1,analysis_source,text,Source of the Data,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Aminomethylphosphoric Acid,1,analysis_method,text,Method of Analysis ,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Aminomethylphosphoric Acid,1,notes,text,Notes,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Aminomethylphosphoric Acid,1,batch,Integer,Batch Number  ,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Aminomethylphosphoric Acid,1,sample_type,text,Sample Matrix,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Aminomethylphosphoric Acid,2,conc,Decimal,Analyte concentration ,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Aminomethylphosphoric Acid,2,concunits,text,Analyte concentration units,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Aminomethylphosphoric Acid,2,BLOD,Integer,Below Limit of Detection,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Aminomethylphosphoric Acid,2,LOD,Decimal,Limit of Detection,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Aminomethylphosphoric Acid,2,date_analyzed,,Date of Analysis,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Aminomethylphosphoric Acid,2,analysis_source,text,Source of the Data,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Aminomethylphosphoric Acid,2,analysis_method,text,Method of Analysis ,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Aminomethylphosphoric Acid,2,notes,text,Notes,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Aminomethylphosphoric Acid,2,batch,Integer,Batch Number  ,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Aminomethylphosphoric Acid,2,sample_type,text,Sample Matrix,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Aminomethylphosphoric Acid,3,conc,Decimal,Analyte concentration ,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Aminomethylphosphoric Acid,3,concunits,text,Analyte concentration units,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Aminomethylphosphoric Acid,3,BLOD,Integer,Below Limit of Detection,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Aminomethylphosphoric Acid,3,LOD,Decimal,Limit of Detection,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Aminomethylphosphoric Acid,3,date_analyzed,,Date of Analysis,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Aminomethylphosphoric Acid,3,analysis_source,text,Source of the Data,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Aminomethylphosphoric Acid,3,analysis_method,text,Method of Analysis ,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Aminomethylphosphoric Acid,3,notes,text,Notes,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Aminomethylphosphoric Acid,3,batch,Integer,Batch Number  ,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Aminomethylphosphoric Acid,3,sample_type,text,Sample Matrix,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Aminomethylphosphoric Acid,4,conc,Decimal,Analyte concentration ,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Aminomethylphosphoric Acid,4,concunits,text,Analyte concentration units,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Aminomethylphosphoric Acid,4,BLOD,Integer,Below Limit of Detection,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Aminomethylphosphoric Acid,4,LOD,Decimal,Limit of Detection,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Aminomethylphosphoric Acid,4,date_analyzed,,Date of Analysis,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Aminomethylphosphoric Acid,4,analysis_source,text,Source of the Data,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Aminomethylphosphoric Acid,4,analysis_method,text,Method of Analysis ,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Aminomethylphosphoric Acid,4,notes,text,Notes,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Aminomethylphosphoric Acid,4,batch,Integer,Batch Number  ,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Aminomethylphosphoric Acid,4,sample_type,text,Sample Matrix,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Glyphosate,1,conc,Decimal,Analyte concentration ,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Glyphosate,1,concunits,text,Analyte concentration units,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Glyphosate,1,BLOD,Integer,Below Limit of Detection,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Glyphosate,1,LOD,Decimal,Limit of Detection,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Glyphosate,1,date_analyzed,,Date of Analysis,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Glyphosate,1,analysis_source,text,Source of the Data,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Glyphosate,1,analysis_method,text,Method of Analysis ,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Glyphosate,1,notes,text,Notes,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Glyphosate,1,batch,Integer,Batch Number  ,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Glyphosate,1,sample_type,text,Sample Matrix,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Glyphosate,2,conc,Decimal,Analyte concentration ,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Glyphosate,2,concunits,text,Analyte concentration units,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Glyphosate,2,BLOD,Integer,Below Limit of Detection,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Glyphosate,2,LOD,Decimal,Limit of Detection,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Glyphosate,2,date_analyzed,,Date of Analysis,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Glyphosate,2,analysis_source,text,Source of the Data,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Glyphosate,2,analysis_method,text,Method of Analysis ,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Glyphosate,2,notes,text,Notes,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Glyphosate,2,batch,Integer,Batch Number  ,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Glyphosate,2,sample_type,text,Sample Matrix,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Glyphosate,3,conc,Decimal,Analyte concentration ,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Glyphosate,3,concunits,text,Analyte concentration units,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Glyphosate,3,BLOD,Integer,Below Limit of Detection,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Glyphosate,3,LOD,Decimal,Limit of Detection,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Glyphosate,3,date_analyzed,,Date of Analysis,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Glyphosate,3,analysis_source,text,Source of the Data,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Glyphosate,3,analysis_method,text,Method of Analysis ,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Glyphosate,3,notes,text,Notes,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Glyphosate,3,batch,Integer,Batch Number  ,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Glyphosate,3,sample_type,text,Sample Matrix,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Glyphosate,4,conc,Decimal,Analyte concentration ,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Glyphosate,4,concunits,text,Analyte concentration units,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Glyphosate,4,BLOD,Integer,Below Limit of Detection,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Glyphosate,4,LOD,Decimal,Limit of Detection,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Glyphosate,4,date_analyzed,,Date of Analysis,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Glyphosate,4,analysis_source,text,Source of the Data,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Glyphosate,4,analysis_method,text,Method of Analysis ,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Glyphosate,4,notes,text,Notes,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Glyphosate,4,batch,Integer,Batch Number  ,,,,,,,,,,,,,
+Biological Data,biological_all,Glyphosate,Glyphosate,4,sample_type,text,Sample Matrix,,,,,,,,,,,,,
+studyid,initial_screening,Unlabelled,,,text,Numero de identificacion,,,,,,,,,,,,,,Human Subject Data
+isstarttime,initial_screening,Unlabelled,,,text,Hora de inicio             ,,Hora Militar (hh:mm) (1:00pm = 13:00),time,12:01:00 AM,11:59:00 PM,,,,,,,,,Human Subject Data
+isdate,initial_screening,Unlabelled,,,text,Fecha del cernimiento,,MM-DD-YYYY,date_mdy,,,,,,,,,,,Human Subject Data
+interviewer,initial_screening,Unlabelled,,,radio,?Quien hace la entrevista?,"1, Camille Rivera | 2, Dalitza Ram?n | 3, Liza Anzalota | 4, Marilyn Alicea | 5, Janisse Cabrera | 6, Abigail Figueroa| 7, Another Interviewer",,,,,,,,,,,,,Human Subject Data
+isotherinterviewer,initial_screening,Unlabelled,,,text,Nombre del Entrevistador,,,,,,,[interviewer]='7',,,,,,,Human Subject Data
+interest,initial_screening,Unlabelled,,,radio,?Le Interesar?a saber m?s sobre este estudio y considerar?a participar?,"1, S?  | 0, No",,,,,,,,,,,,,Human Subject Data
+nonpartage,initial_screening,Unlabelled,,,text,Edad del No-Participante,,Hasta 2 d?gitos,number,18,40,,[interest] = '0',y,,,,,,Human Subject Data
+nonpartcity,initial_screening,Unlabelled,,,text,Ciudad del No-Participante,,35 Letras,,,,,[interest] = '0',,,,,,,Human Subject Data
+isfirstname,initial_screening,Unlabelled,,,text,Primer Nombre,,35 Letras,,,,y,[interest] = '1',y,,,,,,Human Subject Data
+ismidname,initial_screening,Unlabelled,,,text,Segundo Nombre,,35 Letras,,,,y,[interest] = '1',y,,,,,,Human Subject Data
+islastname,initial_screening,Unlabelled,,,text,Apellido Paterno,,35 Letras,,,,y,[interest] = '1',y,,,,,,Human Subject Data
+is2lastname,initial_screening,Unlabelled,,,text,Apellido Materno,,35 Letras,,,,y,[interest] = '1',y,,,,,,Human Subject Data
+isage,initial_screening,Unlabelled,,,text,?Que edad tiene actualmente?,,Edad en a?os,,,,,[interest] = '1',y,,,,,,Human Subject Data
+hospital,initial_screening,Unlabelled,,,radio,?En que Hospital planea dar a luz a su bebe? ,"1, Hospital Universitario, San Juan | 2, Manat? Medical Center, Manat? | 3, Hospital Cayetano Coll y Toste, Arecibo | 4, Doctor's Hospital, Manat? | 97, Otro",,,,,,[interest] = '1',,,,,,,Human Subject Data
+hospital97,initial_screening,Unlabelled,,,text,"Por favor, especifique la ubicaci?n del otro hospital.",,35 Letras,,,,,[hospital]='97' and [interest] = '1',,,,,,,Human Subject Data
+municipality,initial_screening,Unlabelled,,,text,?Municipio en el que vive usted?,,35 Letras (Pueblo),,,,,[interest] = '1',,,,,,,Human Subject Data
+islmprecall,initial_screening,SECCI?N A,,,radio,?Se acuerda usted de la fecha de su ?ltima menstruaci?n?                               ,"1, S? | 0, No",,,,,,[interest] = '1',,,,,,,Human Subject Data
+islmpdate,initial_screening,SECCI?N A,,,text,"Si contesta S?, por favor ingrese la fecha ",,MM-DD-YYYY,date_mdy,,,,[islmprecall]='1' and [interest] = '1',,,,,,,Human Subject Data
+lmpgestagew,initial_screening,SECCI?N A,,,text,Edad gestacional estimada por un profesional de la salud en base a la fecha de la ultima menstruaci?n (Semanas),,Semanas,number,4,42,,[interest] = '1',y,,,,,,Human Subject Data
+lmpgestaged,initial_screening,SECCI?N A,,,text,Edad gestacional estimada por un profesional de la salud en base a la fecha de la ?ltima menstruaci?n (Dias),,Dias,number,0,7,,[interest] = '1',,,,,,,Human Subject Data
+lmpduedate,initial_screening,SECCI?N A,,,text,Fecha estimada para el parto,,MM-DD-YYYY,date_mdy,,,,[interest] = '1',,,,,,,Human Subject Data
+ultrasound,initial_screening,SECCI?N A,,,radio,?Ha recibido un ultrasonido para estimar la edad gestacional?,"1, S? | 0, No",,,,,,[interest] = '1',,,,,,,Human Subject Data
+ultradate,initial_screening,SECCI?N A,,,text,"Si contesta S?, por favor ingrese la fecha en que se realiz? el ultrasonido",,MM-DD-YYYY,date_mdy,,,,[ultrasound]='1' and [interest] = '1',,,,,,,Human Subject Data
+ultragestagew,initial_screening,SECCI?N A,,,text,?Cu?l fue la edad gestacional estimada por este ultrasonido? (Semanas),,Semanas,number,4,42,,[ultrasound]='1' and [interest] = '1',,,,,,,Human Subject Data
+ultragestaged,initial_screening,SECCI?N A,,,text,?Cu?l fue la edad gestacional estimada por este ultrasonido? (Dias),,Dias,number,0,7,,[ultrasound]='1' and [interest] = '1',,,,,,,Human Subject Data
+gestageelig,initial_screening,SECCI?N A,,,radio,?Es la fecha estimada por ultrasonido menor 20 semanas?,"1, S?  | 0, No | 2, No recibio ultrasonido",,,,,,[interest] = '1',,,,,,,Human Subject Data

@@ -1,0 +1,142 @@
+{
+  "Node Properties":[
+    {
+      "id":"nodeScale",
+      "name":"Node Scale",
+      "type":"number",
+      "value": 1.00,
+      "min": 0.00,
+      "step": 0.1
+    },
+    {
+      "id":"nodeTransparency",
+      "name":"Transparency",
+      "type":"number",
+      "value": 1.00,
+      "min": 0.0,
+      "max": 1.00,
+      "step": 0.01
+    },
+    {
+      "id":"nodeSize",
+      "name":"Node Size",
+      "type":"combobox",
+      "dataGroup": "nodes",
+      "value":"Default",
+      "dataType": ["continuous"]
+    },
+    {
+      "id":"nodeColorProp",
+      "name":"Node Color Property",
+      "type":"combobox",
+      "dataGroup": "nodes",
+      "value":"Default",
+      "dataType": ["continuous", "discrete", "categorical"]
+    },
+    {
+      "id":"nodeColorMap",
+      "name":"Node Color",
+      "type":"colorpicker",
+      "parentId":"nodeColorProp",
+      "value":"Default"
+    },
+    {
+      "id":"nodeLabel",
+      "name":"Node Label",
+      "type":"combobox",
+      "dataGroup": "nodes",
+      "value":"Default",
+      "dataType": ["categorical"]
+    },
+    {
+      "id":"showAllNodeLabel",
+      "name":"Show All Label",
+      "type":"checkbox",
+      "value":false
+    }
+  ],
+  "Edge Properties": [
+    {
+      "id":"edgeScale",
+      "name":"Edge Scale",
+      "type":"number",
+      "value": 1.00,
+      "min": 0.00,
+      "step": 0.1
+    },
+    {
+      "id":"edgeSize",
+      "name":"Edge Size",
+      "type":"combobox",
+      "dataGroup": "links",
+      "value":"Default",
+      "dataType": ["discrete", "continuous"]
+    },
+    {
+      "id":"edgeColorProp",
+      "name":"Edge Color Property",
+      "type":"combobox",
+      "dataGroup": "links",
+      "value":"Default",
+      "dataType": ["continuous", "discrete", "categorical"]
+    },
+    {
+      "id":"edgeColorMap",
+      "name":"Edge Color",
+      "type":"colorpicker",
+      "parentId":"edgeColorProp",
+      "value":"Default"
+    },
+    {
+      "id":"edgeTransparency",
+      "name":"Transparency",
+      "type":"number",
+      "value": 0.30,
+      "min": 0.0,
+      "max": 1.00,
+      "step": 0.01
+    }
+  ],
+  "Scatter Plot": [
+    
+    {
+      "id":"mapY",
+      "name":"Y",
+      "type":"combobox",
+      "dataGroup": "nodes",
+      "value":"Default",
+      "dataType": ["continuous", "discrete"]
+    },
+    {
+      "id":"mapX",
+      "name":"X",
+      "type":"combobox",
+      "dataGroup": "nodes",
+      "value":"Default",
+      "dataType": ["continuous", "discrete"]
+    },
+    {
+      "id":"pointColorProp",
+      "name":"Point Color Property",
+      "type":"combobox",
+      "dataGroup": "nodes",
+      "value":"Default",
+      "dataType": ["continuous", "discrete", "categorical"]
+    },
+    {
+      "id":"pointColorMap",
+      "name":"Point Color",
+      "type":"colorpicker",
+      "parentId":"pointColorProp",
+      "value":"Default"
+    },
+    {
+      "id":"pointSize",
+      "name":"Point Size",
+      "type":"combobox",
+      "dataGroup": "nodes",
+      "value":"Default",
+      "dataType": ["continuous"]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "meta":[
+    {
+      "name":"name",
+      "type":"categorical",
+      "group":"nodes"
+    },
+    {
+      "name":"group",
+      "type":"discrete",
+      "group":"nodes"
+    },
+    {
+      "name":"betweenness",
+      "type":"continuous",
+      "group":"nodes"
+    },
+    {
+      "name":"degree",
+      "type":"continuous",
+      "group":"nodes"
+    },
+    {
+      "name":"eigenvector",
+      "type":"continuous",
+      "group":"nodes"
+    },
+    {
+      "name":"weight",
+      "type":"continuous",
+      "group":"links"
+    }
+  ]
+}

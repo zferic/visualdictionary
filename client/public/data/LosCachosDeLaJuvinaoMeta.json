@@ -1,0 +1,29 @@
+{
+  "meta":[
+    {
+      "name":"name",
+      "type":"categorical",
+      "group":"nodes"
+    },
+    {
+      "name":"group",
+      "type":"discrete",
+      "group":"nodes"
+    },
+    {
+      "name":"value",
+      "type":"continuous",
+      "group":"nodes"
+    },
+    {
+      "name":"twitter_link",
+      "type":"categorical",
+      "group":"nodes"
+    },
+    {
+      "name":"value",
+      "type":"discrete",
+      "group":"links"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "meta":[
+    {
+      "name":"name",
+      "type":"categorical",
+      "group":"nodes"
+    },
+    {
+      "name":"group",
+      "type":"discrete",
+      "group":"nodes"
+    },
+    {
+      "name":"nodesize",
+      "type":"continuous",
+      "group":"nodes"
+    },
+    {
+      "name":"value",
+      "type":"continuous",
+      "group":"links"
+    }
+  ]
+}
