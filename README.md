@@ -2,6 +2,8 @@
 
 An interactive data dictionary viewer for the PROTECT study dataset. Users can browse variables by category and form, view data types and field descriptions, select variables of interest, and visualize intersections between selected variables.
 
+**[Live Demo](https://manati.ece.neu.edu/dictionary/diz_test/client/build/)**
+
 ## Features
 
 - **Hierarchical navigation** — browse variables by Type → Form → Section
